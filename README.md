@@ -25,6 +25,16 @@ My collection of Bookmarks
 + [Barracuda Reputation check](https://barracudacentral.org/lookups) (via Barracuda)
 + [Historical DNS Data](https://securitytrails.com/domain/github.com/history/a) (via SecurityTrails.com)
 
+## Migration
++ [Exchange 2007+ (Hosted and On-Premises) to Microsoft 365 Migration Guide](https://help.bittitan.com/hc/en-us/articles/115008266088) (via BitTitan)
++ [Authentication Methods for Microsoft 365 (All Products) Migrations](https://help.bittitan.com/hc/en-us/articles/360034124813) (via BitTitan)
++ [Set up Google API for Migrating Mailboxes](https://help.bittitan.com/hc/en-us/articles/360038939774) (via BitTitan)
++ [G Suite (IMAP) to Microsoft 365 Migration Guide](https://help.bittitan.com/hc/en-us/articles/115008106027) (via BitTitan)
++ [Mover Migration Plan](https://docs.microsoft.com/en-us/sharepointmigration/mover-plan-migration) (via Microsoft)
++ [MS Tenant to Tenant](https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations?view=o365-worldwide) (via Microsoft)
++ [Mover.io](https://mover.io/) (via Mover)
++ [GoDaddy 365 to Real Office 365](https://www.bemopro.com/cybersecurity-blog/how-to-migrate-from-godaddy-to-office-365) (via bemo)
+
 ## RMM Agent Removal
 + [LabTech Removal](https://gist.github.com/ak9999/e68da02d7957bd7db2a2a647f76d50be) (via ak9999 gist github)
 

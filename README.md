@@ -1,6 +1,16 @@
 # Bookmarks
 My collection of Bookmarks
 
+## 365
++ [Setup Teams Phone Remotely](https://docs.microsoft.com/en-US/MicrosoftTeams/devices/remote-provision-remote-login) (via Microsoft)
++ [Disable versioning in a document library](https://www.spguides.com/sharepoint-online-powershell-disable-versioning/) (via SPGuides)
++ [Office 365 updates stop working when workloads are switched to Intune](https://byteben.com/bb/office-365-updates-stop-working-when-workloads-are-switched-to-intune/) (via byteben)
++ [Access Another OneDrive](https://sharepointmaven.com/how-to-access-someone-elses-onedrive-account/) (via SharePoint Maven)
++ [Using ODT (Office Deployment Tool) and tweaks](https://www.slashadmin.co.uk/how-to-deploy-office-365-applications-from-a-server-share/) (via SlashAdmin)
++ [Azure AD Connect Swing Migration](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version#swing-migration) (via Microsoft)
++ [Migrating Azure AD Connect to a New Server](https://practical365.com/migrating-azure-ad-connect-new-server/) (via Practical 365)
++ [Delete an email from all mailboxes](https://geekshangout.com/office-365-deleting-email-mailboxes-using-content-search-feature/) (via Geeks Hangout)
+
 ## AV Removals
 + [PowerShell script to forcefully remove Webroot SecureAnywhere. It is recommended to run the script twice, with a reboot after the first run.](https://gist.github.com/mark05e/708123de4c095ffb4f735c131d8cc783) (via mark05e gist github)
 + [Uninstall the Traps Agent for Windows](https://docs.paloaltonetworks.com/cortex/cortex-xdr/6-1/cortex-xdr-agent-admin/traps-agent-for-windows/uninstall-the-traps-agent-for-windows) (via PaloAlto)

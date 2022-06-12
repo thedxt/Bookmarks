@@ -10,6 +10,11 @@ My collection of Bookmarks
 + [Azure AD Connect Swing Migration](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version#swing-migration) (via Microsoft)
 + [Migrating Azure AD Connect to a New Server](https://practical365.com/migrating-azure-ad-connect-new-server/) (via Practical 365)
 + [Delete an email from all mailboxes](https://geekshangout.com/office-365-deleting-email-mailboxes-using-content-search-feature/) (via Geeks Hangout)
++ [Export Office 365 mailboxes to PST using eDiscovery](https://www.codetwo.com/admins-blog/how-to-export-office-365-mailboxes-to-pst-using-ediscovery/) (via codetwo)
++ [Providing Your Users Visual Cues About Email Safety](https://blogs.perficient.com/2016/04/04/office-365-providing-your-users-visual-cues-about-email-safety/) (via perficient)
++ [Immediately revoke access](https://www.michev.info/Blog/Post/1137/immediately-revoke-access-to-office-365-applications) (via michev.info)
++ [Microsoft Remote Connectivity Analyzer](https://testconnectivity.microsoft.com/) (via Microsoft)
++ [Change a Users Primary Email Address](http://www.techunboxed.com/2013/05/how-to-change-users-primary-email.html) (via techunboxed.com)
 
 ## AV Removals
 + [PowerShell script to forcefully remove Webroot SecureAnywhere. It is recommended to run the script twice, with a reboot after the first run.](https://gist.github.com/mark05e/708123de4c095ffb4f735c131d8cc783) (via mark05e gist github)
@@ -28,6 +33,8 @@ My collection of Bookmarks
 + [Migrate DHCP](https://brycematheson.io/how-to-migrate-dhcp-from-windows-server-2008-to-2012-2016/) (via brycematheson.io)
 + [SYSVOL DFSR migration fails after you in-place upgrade a domain controller to Windows Server 2019](https://docs.microsoft.com/en-US/troubleshoot/windows-server/networking/sysvol-dfsr-migration-fails-after-in-place-upgrade) (via Microsoft)
 + [Group Policy Administrative Templates Catalog](https://admx.help/) (via admx.help)
++ [Active Directory Recycle Bin](https://www.terminalworks.com/blog/post/2016/07/31/active-directory-recycle-bin-windows-server-2012-r2) (via Terminal Works)
++ [Group Policy Search](https://gpsearch.azurewebsites.net/) (via gpsearch)
 
 ## DB
 + [Rest lost SQL Express SA Password](https://www.vladan.fr/how-to-reset-lost-sa-password-in-sql-express/) (via vladan.fr)
@@ -41,8 +48,14 @@ My collection of Bookmarks
 + [Barracuda Reputation check](https://barracudacentral.org/lookups) (via Barracuda)
 + [Historical DNS Data](https://securitytrails.com/domain/github.com/history/a) (via SecurityTrails.com)
 
+## Exchange
++ [Decommission Exchange after 365 Migration](https://techpress.net/decommission-exchange-server-after-office-365-migration/) (via techpress.net)
+
 ## Forti
 + [Fortinet Upgrade Path Tool](https://docs.fortinet.com/upgrade-tool) (via Fortinet)
+
+## Microsoft
++ [Product and Services Lifecycle](https://docs.microsoft.com/en-us/lifecycle/products/) (via Microsoft)
 
 ## Migration
 + [Exchange 2007+ (Hosted and On-Premises) to Microsoft 365 Migration Guide](https://help.bittitan.com/hc/en-us/articles/115008266088) (via BitTitan)
@@ -53,6 +66,10 @@ My collection of Bookmarks
 + [MS Tenant to Tenant](https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations?view=o365-worldwide) (via Microsoft)
 + [Mover.io](https://mover.io/) (via Mover)
 + [GoDaddy 365 to Real Office 365](https://www.bemopro.com/cybersecurity-blog/how-to-migrate-from-godaddy-to-office-365) (via bemo)
+
+## Networking
++ [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html) (via aelius.com)
++ [Online IP Subnet Calculator](https://www.subnet-calculator.com/) (via subnet-calculator.com)
 
 ## RMM Agent Removal
 + [LabTech Removal](https://gist.github.com/ak9999/e68da02d7957bd7db2a2a647f76d50be) (via ak9999 gist github)
@@ -67,12 +84,20 @@ My collection of Bookmarks
 ## Traning
 + [PaloAlto Beacon](https://beacon.paloaltonetworks.com/student/catalog) (via PaloAlto)
 
+## Installer Tweaking
++ [InnoExtractor](http://www.havysoft.cl/innoextractor.html) (via havysoft.cl)
++ [Ultimate Silent Switch Finder (USSF)](https://www.capstanservices.com/tools-blog/2018/4/4/the-ultimate-silent-switch-finder-ussf) (via Capstan Services)
+
 ## ISOs / Installers
 + [Windows, Office, various MS Products](https://tb.rg-adguard.net/public.php) (via TechBench by WZT)
 + [Veeam Backup and Replication](https://chocolatey.org/packages/veeam-backup-and-replication-iso) (via Chocolatey)
 + [Veeam Backup Microsoft 365](https://community.chocolatey.org/packages/veeam-backup-for-microsoft-365-iso/) (via Chocolatey)
 + [VMware Tools all versions](https://packages.vmware.com/tools/esx/) (via VMware)
 + [VMware Tools](https://community.chocolatey.org/packages/vmware-tools#files) (via Chocolatey)
+### ISO Tools
++ [Easy2Boot](https://easy2boot.xyz/) (via easy2boot.xyz)
++ [Ventoy](https://www.ventoy.net/en/index.html) (via Ventoy.net)
++ [WinSetupFromUSB](http://www.winsetupfromusb.com/downloads/) (via winsetupfromusb.com)
 
 ## Veeam
 + [Veeam Best Practices and Architecture](https://www.veeambp.com/) (via veeambp)
@@ -86,3 +111,6 @@ My collection of Bookmarks
 
 ## Windows
 + [HP Windows Embedded Thin Client PDF](http://install.spotpos.com/ThinClient/HP%20Thin%20Client%20Install.pdf) (via spotpos.com)
++ [Multiple RDP sessions in Windows 10](https://www.mysysadmintips.com/windows/clients/545-multiple-rdp-remote-desktop-sessions-in-windows-10) (via mysysadmintips.com)
++ [Set environment variables in Windows for Java](https://www.itcsolutions.eu/2010/11/29/set-environment-variables-in-windows-7-for-java/) (via itcsolutions.eu)
++ [Concurrent RDP Patcher Windows 7](https://www.raymond.cc/blog/enable-remote-desktop-connection-in-windows-7-home-premium/) (via raymond.cc)

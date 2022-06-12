@@ -28,12 +28,20 @@ My collection of Bookmarks
 + [Migrate DHCP](https://brycematheson.io/how-to-migrate-dhcp-from-windows-server-2008-to-2012-2016/) (via brycematheson.io)
 + [SYSVOL DFSR migration fails after you in-place upgrade a domain controller to Windows Server 2019](https://docs.microsoft.com/en-US/troubleshoot/windows-server/networking/sysvol-dfsr-migration-fails-after-in-place-upgrade) (via Microsoft)
 
+## DB
++ [Rest lost SQL Express SA Password](https://www.vladan.fr/how-to-reset-lost-sa-password-in-sql-express/) (via vladan.fr)
++ [List schemas in Oracle](https://dataedo.com/kb/query/oracle/list-schemas-in-database) (via dataedo)
++ [Export Schemas Using Expdp Data Pump Oracle](http://www.rebellionrider.com/data-pump-expdp-how-to-export-schema-oracle/) (via Rebellion Rider)
+
 ## DNS
 + [Global DNS Propagation Checker](https://www.whatsmydns.net/) (via What's My DNS?)
 + [various DNS info](https://viewdns.info/) (via ViewDNS.info)
 + [SPF/DKIM/DMARC/DomainKey/RBL Tester](https://www.appmaildev.com/) (via AppMailDev)
 + [Barracuda Reputation check](https://barracudacentral.org/lookups) (via Barracuda)
 + [Historical DNS Data](https://securitytrails.com/domain/github.com/history/a) (via SecurityTrails.com)
+
+## Forti
++ [Fortinet Upgrade Path Tool](https://docs.fortinet.com/upgrade-tool) (via Fortinet)
 
 ## Migration
 + [Exchange 2007+ (Hosted and On-Premises) to Microsoft 365 Migration Guide](https://help.bittitan.com/hc/en-us/articles/115008266088) (via BitTitan)

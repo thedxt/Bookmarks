@@ -27,6 +27,7 @@ My collection of Bookmarks
 + [Transfer FSMO roles](https://www.dtonias.com/transfer-fsmo-roles-domain-controller/) (via dtonias)
 + [Migrate DHCP](https://brycematheson.io/how-to-migrate-dhcp-from-windows-server-2008-to-2012-2016/) (via brycematheson.io)
 + [SYSVOL DFSR migration fails after you in-place upgrade a domain controller to Windows Server 2019](https://docs.microsoft.com/en-US/troubleshoot/windows-server/networking/sysvol-dfsr-migration-fails-after-in-place-upgrade) (via Microsoft)
++ [Group Policy Administrative Templates Catalog](https://admx.help/) (via admx.help)
 
 ## DB
 + [Rest lost SQL Express SA Password](https://www.vladan.fr/how-to-reset-lost-sa-password-in-sql-express/) (via vladan.fr)
@@ -61,11 +62,23 @@ My collection of Bookmarks
 + [Browser SSL/TLS tester](https://www.howsmyssl.com/) (via How's My SSL)
 + [Public SSL Server Tester](https://www.ssllabs.com/ssltest/) (via Qualys SSL Labs)
 + [SSL Checker](https://www.sslshopper.com/ssl-checker.html) (via SSL Shopper)
++ [Provisioning CA and Server Certificates on Cisco ISE](https://rscciew.wordpress.com/2014/05/24/provisioning-ca-and-server-certificates-on-cisco-ise/) (via rscciew)
+
+## Traning
++ [PaloAlto Beacon](https://beacon.paloaltonetworks.com/student/catalog) (via PaloAlto)
 
 ## ISOs / Installers
 + [Windows, Office, various MS Products](https://tb.rg-adguard.net/public.php) (via TechBench by WZT)
 + [Veeam Backup and Replication](https://chocolatey.org/packages/veeam-backup-and-replication-iso) (via Chocolatey)
 + [Veeam Backup Microsoft 365](https://community.chocolatey.org/packages/veeam-backup-for-microsoft-365-iso/) (via Chocolatey)
++ [VMware Tools all versions](https://packages.vmware.com/tools/esx/) (via VMware)
++ [VMware Tools](https://community.chocolatey.org/packages/vmware-tools#files) (via Chocolatey)
+
+## Veeam
++ [Veeam Best Practices and Architecture](https://www.veeambp.com/) (via veeambp)
++ [Veeam Service Provider Best Practices](https://bp.veeam.com/sp/) (via Veeam)
++ [Veeam Backup & Replication Best Practices](https://bp.veeam.com/vbr) (via Veeam)
++ [Veeam Backup for Microsoft 365 Best Practices](https://bp.veeam.com/vbo/) (via Veeam)
 
 ## VMware
 + [Location of log files for VMware products](https://kb.vmware.com/s/article/1021806) (via VMware)

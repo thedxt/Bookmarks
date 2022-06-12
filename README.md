@@ -10,6 +10,14 @@ My collection of Bookmarks
 + [Symantec Endpoint Protection (CleanWipe)](https://knowledge.broadcom.com/external/article/178870/download-the-cleanwipe-removal-tool-to-u.html) (via Broadcom)
 + [Anti-virus Uninstall Scripts](http://getalphacontrol.com/Avira/UninstallScripts/index.php) (via Atera (Alpha Control))
 
+## DC
++ [Retiring SBS 2011, AD migration & Exchange Uninstall](https://community.spiceworks.com/topic/2178848-retiring-sbs-2011-ad-migration-exchange-uninstall) (via Spiceworks)
++ [Changing the Default Users and Computers Containers in AD](https://blog.expta.com/2009/03/changing-default-users-and-computers.html) (via expta)
++ [FSR to DFSR](https://www.rebeladmin.com/2015/04/step-by-step-guide-for-upgrading-sysvol-replication-to-dfsr-distributed-file-system-replication/) (via Rebel Admin)
++ [Transfer FSMO roles](https://www.dtonias.com/transfer-fsmo-roles-domain-controller/) (via dtonias)
++ [Migrate DHCP](https://brycematheson.io/how-to-migrate-dhcp-from-windows-server-2008-to-2012-2016/) (via brycematheson.io)
++ [SYSVOL DFSR migration fails after you in-place upgrade a domain controller to Windows Server 2019](https://docs.microsoft.com/en-US/troubleshoot/windows-server/networking/sysvol-dfsr-migration-fails-after-in-place-upgrade) (via Microsoft)
+
 ## DNS
 + [Global DNS Propagation Checker](https://www.whatsmydns.net/) (via What's My DNS?)
 + [various DNS info](https://viewdns.info/) (via ViewDNS.info)

@@ -70,3 +70,6 @@ My collection of Bookmarks
 ## VMware
 + [Location of log files for VMware products](https://kb.vmware.com/s/article/1021806) (via VMware)
 + [basilisk portable with flash](https://archive.org/download/basilisk-portable-with-flash) (Via Archive.org)
+
+## Windows
++ [HP Windows Embedded Thin Client PDF](http://install.spotpos.com/ThinClient/HP%20Thin%20Client%20Install.pdf) (via spotpos.com)

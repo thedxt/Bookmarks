@@ -10,6 +10,16 @@ My collection of Bookmarks
 + [Symantec Endpoint Protection (CleanWipe)](https://knowledge.broadcom.com/external/article/178870/download-the-cleanwipe-removal-tool-to-u.html) (via Broadcom)
 + [Anti-virus Uninstall Scripts](http://getalphacontrol.com/Avira/UninstallScripts/index.php) (via Atera (Alpha Control))
 
+## DNS
++ [Global DNS Propagation Checker](https://www.whatsmydns.net/) (via What's My DNS?)
++ [various DNS info](https://viewdns.info/) (via ViewDNS.info)
++ [SPF/DKIM/DMARC/DomainKey/RBL Tester](https://www.appmaildev.com/) (via AppMailDev)
++ [Barracuda Reputation check](https://barracudacentral.org/lookups) (via Barracuda)
++ [Historical DNS Data](https://securitytrails.com/domain/github.com/history/a) (via SecurityTrails.com)
+
+## RMM Agent Removal
++ [LabTech Removal](https://gist.github.com/ak9999/e68da02d7957bd7db2a2a647f76d50be) (via ak9999 gist github)
+
 ## ISOs / Installers
 + [Windows, Office, various MS Products](https://tb.rg-adguard.net/public.php) (via TechBench by WZT)
 + [Veeam Backup and Replication](https://chocolatey.org/packages/veeam-backup-and-replication-iso) (via Chocolatey)

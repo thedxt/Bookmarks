@@ -24,6 +24,7 @@ My collection of Bookmarks
 + [List of anti-malware product removal tools](https://answers.microsoft.com/en-us/protect/forum/protect_other-protect_start-windows_other/list-of-anti-malware-product-removal-tools/2bcb53f7-7ab4-4ef9-ab3a-6aebfa322f75) (via MS Answers)
 + [Symantec Endpoint Protection (CleanWipe)](https://knowledge.broadcom.com/external/article/178870/download-the-cleanwipe-removal-tool-to-u.html) (via Broadcom)
 + [Anti-virus Uninstall Scripts](http://getalphacontrol.com/Avira/UninstallScripts/index.php) (via Atera (Alpha Control))
++ [uninstall Cortex XDR agent gracefully using a non interactive command](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA14u000000HCcNCAW) (via PaloAlto)
 
 ## DC
 + [Retiring SBS 2011, AD migration & Exchange Uninstall](https://community.spiceworks.com/topic/2178848-retiring-sbs-2011-ad-migration-exchange-uninstall) (via Spiceworks)

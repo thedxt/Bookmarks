@@ -110,6 +110,7 @@ My collection of Bookmarks
 ## VMware
 + [Location of log files for VMware products](https://kb.vmware.com/s/article/1021806) (via VMware)
 + [basilisk portable with flash](https://archive.org/download/basilisk-portable-with-flash) (Via Archive.org)
++ [Update Certificates on Horizon](https://docs.vmware.com/en/VMware-Horizon-7/7.13/horizon-administration/GUID-5717A5F9-D2E3-4CB7-A0B8-5BBF8F3CBA92.html) (via VMware)
 
 ## Windows
 + [HP Windows Embedded Thin Client PDF](http://install.spotpos.com/ThinClient/HP%20Thin%20Client%20Install.pdf) (via spotpos.com)

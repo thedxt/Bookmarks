@@ -83,7 +83,7 @@ My collection of Bookmarks
 + [SSL Checker](https://www.sslshopper.com/ssl-checker.html) (via SSL Shopper)
 + [Provisioning CA and Server Certificates on Cisco ISE](https://rscciew.wordpress.com/2014/05/24/provisioning-ca-and-server-certificates-on-cisco-ise/) (via rscciew)
 
-## Traning
+## Training
 + [PaloAlto Beacon](https://beacon.paloaltonetworks.com/student/catalog) (via PaloAlto)
 
 ## Installer Tweaking

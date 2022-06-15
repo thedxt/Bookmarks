@@ -58,6 +58,8 @@ My collection of Bookmarks
 
 ## Microsoft
 + [Product and Services Lifecycle](https://docs.microsoft.com/en-us/lifecycle/products/) (via Microsoft)
++ [IE to Edge End User info](https://microsoftedgewelcome.microsoft.com/en-us/mb03?source=mb03&form=MA13E6) (via Microsoft)
++ [Edge End User info](https://microsoftedgewelcome.microsoft.com/) (via Microsoft)
 
 ## Migration
 + [Exchange 2007+ (Hosted and On-Premises) to Microsoft 365 Migration Guide](https://help.bittitan.com/hc/en-us/articles/115008266088) (via BitTitan)

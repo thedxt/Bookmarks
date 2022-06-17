@@ -76,7 +76,7 @@ My collection of Bookmarks
 + [Online IP Subnet Calculator](https://www.subnet-calculator.com/) (via subnet-calculator.com)
 
 ## PaloAlto
-[URL Filtering Test Pages](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClaDCAS) (via PaloAlto)
++ [URL Filtering Test Pages](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClaDCAS) (via PaloAlto)
 
 ## RMM Agent Removal
 + [LabTech Removal](https://gist.github.com/ak9999/e68da02d7957bd7db2a2a647f76d50be) (via ak9999 gist github)

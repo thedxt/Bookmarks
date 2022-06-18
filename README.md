@@ -1,6 +1,8 @@
 # Bookmarks
 My collection of Bookmarks
 
+[Fixes](fixes.md) - My collection of fixes
+
 ## 365
 + [Setup Teams Phone Remotely](https://docs.microsoft.com/en-US/MicrosoftTeams/devices/remote-provision-remote-login) (via Microsoft)
 + [Disable versioning in a document library](https://www.spguides.com/sharepoint-online-powershell-disable-versioning/) (via SPGuides)
@@ -16,6 +18,8 @@ My collection of Bookmarks
 + [Microsoft Remote Connectivity Analyzer](https://testconnectivity.microsoft.com/) (via Microsoft)
 + [Change a Users Primary Email Address](http://www.techunboxed.com/2013/05/how-to-change-users-primary-email.html) (via techunboxed.com)
 
+[365 Fixes](fixes.md#365)
+
 ## AV Removals
 + [PowerShell script to forcefully remove Webroot SecureAnywhere. It is recommended to run the script twice, with a reboot after the first run.](https://gist.github.com/mark05e/708123de4c095ffb4f735c131d8cc783) (via mark05e gist github)
 + [Uninstall the Traps Agent for Windows](https://docs.paloaltonetworks.com/cortex/cortex-xdr/6-1/cortex-xdr-agent-admin/traps-agent-for-windows/uninstall-the-traps-agent-for-windows) (via PaloAlto)
@@ -26,6 +30,14 @@ My collection of Bookmarks
 + [Anti-virus Uninstall Scripts](http://getalphacontrol.com/Avira/UninstallScripts/index.php) (via Atera (Alpha Control))
 + [uninstall Cortex XDR agent gracefully using a non interactive command](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA14u000000HCcNCAW) (via PaloAlto)
 + [Bitdefender uninstall tool](https://www.bitdefender.com/business/support/en/77209-80124-remove-bitdefender-endpoint-security-tools-using-the-uninstall-tool.html) (via bitdefender)
++ [AV Defender removal tool](https://success.n-able.com/kb/solarwinds_n-central/Where-to-download-the-latest-AV-Defender-removal-tool)
+
+## DB
++ [Rest lost SQL Express SA Password](https://www.vladan.fr/how-to-reset-lost-sa-password-in-sql-express/) (via vladan.fr)
++ [List schemas in Oracle](https://dataedo.com/kb/query/oracle/list-schemas-in-database) (via dataedo)
++ [Export Schemas Using Expdp Data Pump Oracle](http://www.rebellionrider.com/data-pump-expdp-how-to-export-schema-oracle/) (via Rebellion Rider)
+
+[DB Fixes](fixes.md#db)
 
 ## DC
 + [Retiring SBS 2011, AD migration & Exchange Uninstall](https://community.spiceworks.com/topic/2178848-retiring-sbs-2011-ad-migration-exchange-uninstall) (via Spiceworks)
@@ -38,10 +50,8 @@ My collection of Bookmarks
 + [Active Directory Recycle Bin](https://www.terminalworks.com/blog/post/2016/07/31/active-directory-recycle-bin-windows-server-2012-r2) (via Terminal Works)
 + [Group Policy Search](https://gpsearch.azurewebsites.net/) (via gpsearch)
 
-## DB
-+ [Rest lost SQL Express SA Password](https://www.vladan.fr/how-to-reset-lost-sa-password-in-sql-express/) (via vladan.fr)
-+ [List schemas in Oracle](https://dataedo.com/kb/query/oracle/list-schemas-in-database) (via dataedo)
-+ [Export Schemas Using Expdp Data Pump Oracle](http://www.rebellionrider.com/data-pump-expdp-how-to-export-schema-oracle/) (via Rebellion Rider)
+[DC Fixes](fixes.md#dc)
+
 
 ## DNS
 + [Global DNS Propagation Checker](https://www.whatsmydns.net/) (via What's My DNS?)
@@ -53,8 +63,12 @@ My collection of Bookmarks
 ## Exchange
 + [Decommission Exchange after 365 Migration](https://techpress.net/decommission-exchange-server-after-office-365-migration/) (via techpress.net)
 
+[On Prem Exchange Fixes](fixes.md#on-prem-exchange)
+
 ## Forti
 + [Fortinet Upgrade Path Tool](https://docs.fortinet.com/upgrade-tool) (via Fortinet)
+
+[Forti Fixes](fixes.md#forti)
 
 ## Microsoft
 + [Product and Services Lifecycle](https://docs.microsoft.com/en-us/lifecycle/products/) (via Microsoft)
@@ -128,10 +142,14 @@ My collection of Bookmarks
 + [Veeam Backup & Replication Best Practices](https://bp.veeam.com/vbr) (via Veeam)
 + [Veeam Backup for Microsoft 365 Best Practices](https://bp.veeam.com/vbo/) (via Veeam)
 
+[Veeam Fixes](fixes.md#veeam)
+
 ## VMware
 + [Location of log files for VMware products](https://kb.vmware.com/s/article/1021806) (via VMware)
 + [basilisk portable with flash](https://archive.org/download/basilisk-portable-with-flash) (Via Archive.org)
 + [Update Certificates on Horizon](https://docs.vmware.com/en/VMware-Horizon-7/7.13/horizon-administration/GUID-5717A5F9-D2E3-4CB7-A0B8-5BBF8F3CBA92.html) (via VMware)
+
+[VMware Fixes](fixes.md#vmware)
 
 ## Warranty Checking
 + [Dell](https://www.dell.com/support/home/ca/en/cabsdt1?app=warranty&~ck=mn) (via Dell)
@@ -149,3 +167,5 @@ My collection of Bookmarks
 + [Concurrent RDP Patcher Windows 7](https://www.raymond.cc/blog/enable-remote-desktop-connection-in-windows-7-home-premium/) (via raymond.cc)
 + [Remove ScrewDrivers](https://tricerat.atlassian.net/wiki/spaces/TKB/pages/53837834/Upgrading+to+ScrewDrivers+v6) (via tricerat.atlassian.net)
 + [Silent Install ScrewDrivers](https://tricerat.atlassian.net/wiki/spaces/TKB/pages/347242517/Silent+Install+Switches+v6.6.0+-+v6.6.1) (via tricerat.atlassian.net)
+
+[Windows Fixes](fixes.md#Windows)

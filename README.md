@@ -56,7 +56,7 @@ My collection of Bookmarks
 ## Forti
 + [Fortinet Upgrade Path Tool](https://docs.fortinet.com/upgrade-tool) (via Fortinet)
 
-## Microsoft
+## Mic[]rosoft
 + [Product and Services Lifecycle](https://docs.microsoft.com/en-us/lifecycle/products/) (via Microsoft)
 + [IE to Edge End User info](https://microsoftedgewelcome.microsoft.com/en-us/mb03?source=mb03&form=MA13E6) (via Microsoft)
 + [Edge End User info](https://microsoftedgewelcome.microsoft.com/) (via Microsoft)
@@ -77,6 +77,22 @@ My collection of Bookmarks
 
 ## PaloAlto
 + [URL Filtering Test Pages](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClaDCAS) (via PaloAlto)
+
+## Releases
++ [Microsoft 365 roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=66584) (via Microsoft)
++ [Windows 10 Home and Pro](https://docs.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro) (via Microsoft)
++ [Microsoft 365 Apps](https://docs.microsoft.com/en-us/officeupdates/update-history-microsoft365-apps-by-date) (via Microsoft)
++ [ODT (Office Deployment Tool)](https://docs.microsoft.com/en-us/officeupdates/odt-release-history) (via Microsoft)
++ [Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-version-history) (via Microsoft)
++ [Windows release health](https://docs.microsoft.com/en-us/windows/release-health/) (via Microsoft)
++ [ADMX (Group Policy Administrative Templates)](https://docs.microsoft.com/en-US/troubleshoot/windows-client/group-policy/create-and-manage-central-store) (via Microsoft)
++ [VCSA](https://kb.vmware.com/s/article/2143838) (via VMware)
++ [ESXi](https://kb.vmware.com/s/article/2143832) (via VMware)
++ [UniFi](https://community.ui.com/releases) (via Ubiquiti)
++ [Veeam Backup & Replication](https://www.veeam.com/kb2680) (via Veeam)
++ [Veeam Backup for Microsoft 365](https://www.veeam.com/kb4106) (via Veeam)
++ [OpenVPN AS](https://openvpn.net/vpn-server-resources/release-notes/) (via OpenVPN)
++ [End of Life List](https://endoflife.date/) (via endoflife.date)
 
 ## RMM Agent Removal
 + [LabTech Removal](https://gist.github.com/ak9999/e68da02d7957bd7db2a2a647f76d50be) (via ak9999 gist github)

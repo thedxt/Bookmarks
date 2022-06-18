@@ -85,16 +85,6 @@
 ## SSCM / MEM
 + [Windows Firewall and port settings for clients in Configuration Manager](https://docs.microsoft.com/en-us/mem/configmgr/core/clients/deploy/windows-firewall-and-port-settings-for-clients)
 
-## VMware
-+ [install esxi in non UEFI](https://serverfault.com/questions/750051/why-doesnt-the-internal-usb-port-boot-esxi-6-on-my-microserver-gen8)
-+ [Troubleshooting vCenter Appliance /storage/log directory is 80% or more full](https://kb.vmware.com/s/article/83070)
-+ [Enable content Copy/Paste between VMRC client and Windows/Linux Virtual Machine](https://kb.vmware.com/s/article/57122)
-+ [Installing and upgrading the latest version of VMware Tools on existing hosts](https://kb.vmware.com/s/article/2129825)
-+ [Restarting the Management agents in ESXi](https://kb.vmware.com/s/article/1003490)
-+ [virtual machine fails to power on with the error: Unsupported and/or invalid disk type](https://kb.vmware.com/s/article/1028943)
-
-[Back to VMware Bookmarks](README.md#vmware)
-
 ## Veeam
 
 ### Veeam Backup for Microsoft 365
@@ -121,6 +111,16 @@
 + [Error Partition exceeds disk layout](https://original-network.com/veeam-agent-for-windows-error-partition-exceeds-disk-1-layout-by/)
 
 [Back to Veeam Bookmarks](README.md#veeam)
+
+## VMware
++ [install esxi in non UEFI](https://serverfault.com/questions/750051/why-doesnt-the-internal-usb-port-boot-esxi-6-on-my-microserver-gen8)
++ [Troubleshooting vCenter Appliance /storage/log directory is 80% or more full](https://kb.vmware.com/s/article/83070)
++ [Enable content Copy/Paste between VMRC client and Windows/Linux Virtual Machine](https://kb.vmware.com/s/article/57122)
++ [Installing and upgrading the latest version of VMware Tools on existing hosts](https://kb.vmware.com/s/article/2129825)
++ [Restarting the Management agents in ESXi](https://kb.vmware.com/s/article/1003490)
++ [virtual machine fails to power on with the error: Unsupported and/or invalid disk type](https://kb.vmware.com/s/article/1028943)
+
+[Back to VMware Bookmarks](README.md#vmware)
 
 ## Windows
 + [delete a file that Windows says doesn't exist](https://superuser.com/questions/1277529/how-do-i-delete-a-file-that-windows-says-doesnt-exist)

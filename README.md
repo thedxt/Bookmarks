@@ -1,6 +1,9 @@
 # Bookmarks
 My collection of Bookmarks
 
+# [Fixes](fixes.md)
+Various fixes I've collected
+
 ## 365
 + [Setup Teams Phone Remotely](https://docs.microsoft.com/en-US/MicrosoftTeams/devices/remote-provision-remote-login) (via Microsoft)
 + [Disable versioning in a document library](https://www.spguides.com/sharepoint-online-powershell-disable-versioning/) (via SPGuides)

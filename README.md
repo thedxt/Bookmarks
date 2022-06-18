@@ -133,6 +133,15 @@ My collection of Bookmarks
 + [basilisk portable with flash](https://archive.org/download/basilisk-portable-with-flash) (Via Archive.org)
 + [Update Certificates on Horizon](https://docs.vmware.com/en/VMware-Horizon-7/7.13/horizon-administration/GUID-5717A5F9-D2E3-4CB7-A0B8-5BBF8F3CBA92.html) (via VMware)
 
+## Warranty Checking
++ [Dell](https://www.dell.com/support/home/ca/en/cabsdt1?app=warranty&~ck=mn) (via Dell)
++ [HP](https://support.hp.com/us-en/checkwarranty) (via HP)
++ [HPE](https://support.hpe.com/hpsc/wc/public/home) (via HPE)
++ [Lenovo](https://pcsupport.lenovo.com/ca/en/warrantylookup) (via Lenovo)
++ [MS Surface](https://mybusinessservice.surface.com/en-US/CheckWarranty/CheckWarranty) (via Microsoft)
++ [Western Digital](https://support-en.wd.com/app/warrantystatus) (via Western Digital)
++ [Cisco](https://cway.cisco.com/sncheck/) (Login Wall) (via Cisco)
+
 ## Windows
 + [HP Windows Embedded Thin Client PDF](http://install.spotpos.com/ThinClient/HP%20Thin%20Client%20Install.pdf) (via spotpos.com)
 + [Multiple RDP sessions in Windows 10](https://www.mysysadmintips.com/windows/clients/545-multiple-rdp-remote-desktop-sessions-in-windows-10) (via mysysadmintips.com)

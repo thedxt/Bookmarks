@@ -140,7 +140,7 @@ My collection of Bookmarks
 + [Lenovo](https://pcsupport.lenovo.com/ca/en/warrantylookup) (via Lenovo)
 + [MS Surface](https://mybusinessservice.surface.com/en-US/CheckWarranty/CheckWarranty) (via Microsoft)
 + [Western Digital](https://support-en.wd.com/app/warrantystatus) (via Western Digital)
-+ [Cisco](https://cway.cisco.com/sncheck/) (via Cisco)
++ [Cisco](https://cway.cisco.com/sncheck/) (Login Wall) (via Cisco)
 
 ## Windows
 + [HP Windows Embedded Thin Client PDF](http://install.spotpos.com/ThinClient/HP%20Thin%20Client%20Install.pdf) (via spotpos.com)

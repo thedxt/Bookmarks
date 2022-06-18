@@ -56,7 +56,7 @@ My collection of Bookmarks
 ## Forti
 + [Fortinet Upgrade Path Tool](https://docs.fortinet.com/upgrade-tool) (via Fortinet)
 
-## Mic[]rosoft
+## Microsoft
 + [Product and Services Lifecycle](https://docs.microsoft.com/en-us/lifecycle/products/) (via Microsoft)
 + [IE to Edge End User info](https://microsoftedgewelcome.microsoft.com/en-us/mb03?source=mb03&form=MA13E6) (via Microsoft)
 + [Edge End User info](https://microsoftedgewelcome.microsoft.com/) (via Microsoft)

@@ -26,6 +26,7 @@ My collection of Bookmarks
 + [Anti-virus Uninstall Scripts](http://getalphacontrol.com/Avira/UninstallScripts/index.php) (via Atera (Alpha Control))
 + [uninstall Cortex XDR agent gracefully using a non interactive command](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA14u000000HCcNCAW) (via PaloAlto)
 + [Bitdefender uninstall tool](https://www.bitdefender.com/business/support/en/77209-80124-remove-bitdefender-endpoint-security-tools-using-the-uninstall-tool.html) (via bitdefender)
++ [AV Defender removal tool](https://success.n-able.com/kb/solarwinds_n-central/Where-to-download-the-latest-AV-Defender-removal-tool)
 
 ## DC
 + [Retiring SBS 2011, AD migration & Exchange Uninstall](https://community.spiceworks.com/topic/2178848-retiring-sbs-2011-ad-migration-exchange-uninstall) (via Spiceworks)

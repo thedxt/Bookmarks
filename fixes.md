@@ -1,5 +1,6 @@
 [Back to Bookmarks](README.md)
-# Fixes for Random issues
+# Fixes
+My collection of fixes
 
 ## 365
 + [Unlink On-Premises AD Accounts with Azure AD Matches](https://www.orbid365.be/unlink-on-premises-ad-account-with-azure-ad-match/)

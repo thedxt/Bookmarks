@@ -1,7 +1,7 @@
+[Fixes](fixes.md)
+
 # Bookmarks
 My collection of Bookmarks
-
-[Fixes](fixes.md) - My collection of fixes
 
 ## 365
 + [Setup Teams Phone Remotely](https://docs.microsoft.com/en-US/MicrosoftTeams/devices/remote-provision-remote-login) (via Microsoft)

@@ -1,3 +1,4 @@
+[Back to main list](README.md)
 # Fixes for Random issues
 
 ## 365
@@ -16,6 +17,8 @@
 + [Get Recycle Bin Storage Size SharePoint Online](https://www.sharepointdiary.com/2017/12/sharepoint-online-get-recycle-bin-storage-size-using-powershell.html)
 + [Restore deleted mail items to their original folder](https://o365info.com/restore-deleted-mail-items-to-their-original-folder-using-powershell-introduction-1-3/)
 
+[Back to 365 Bookmarks](README.md#365)
+
 ## B2
 + [Delete Bucket with CLI](https://www.reddit.com/r/backblaze/comments/owrvtw/comment/hcpy9hr/?utm_source=share&utm_medium=web2x&context=3)
 
@@ -29,6 +32,8 @@
 + [Upgrade MS SQL Reporting Services to 2017](https://blog.pythian.com/upgrade-sql-server-reporting-services-to-2017/)
 + [Creating A New Database From A Backup Of Another Database On The Same Server](https://jackworthen.com/2017/10/25/creating-a-new-database-from-a-backup-of-another-database-on-the-same-server/)
 + [SQL Server Kill All Connections](https://www.sqlserver.info/maintenance/sql-server-kill-all-connections/)
+
+[Back to DB Bookmarks](README.md#db)
 
 ## DC
 + [How to Find the AD and Exchange Schema Version](https://www.easy365manager.com/how-to-find-the-ad-and-exchange-schema-version/)
@@ -44,6 +49,8 @@
 + [Track Source of Account Lockouts](https://www.lepide.com/how-to/identify-the-source-of-account-lockouts-in-active-directory.html)
 + [Remove Old DHCP Servers from Active Directory](https://support.hpe.com/hpesc/public/docDisplay?docId=c01612193&docLocale=en_US)
 
+[Back to DC Bookmarks](README.md#dc)
+
 ## Dell
 + [RED007 error when applying latest iDRAC firmware from Out of Band interface](https://www.dell.com/support/kbdoc/en-ca/000135299/idrac7-idrac8-red007-error-when-applying-latest-idrac-firmware-from-out-of-band-interface)
 + [Fan always at Full Speed](https://serverfault.com/questions/715387/how-do-i-stop-dell-r730xd-fans-from-going-full-speed-when-broadcom-qlogic-netxtr/733064#733064)
@@ -52,6 +59,8 @@
 + [DNS resolution over IPsec/SSL VPN](https://community.fortinet.com/t5/FortiGate/Technical-Tip-DNS-resolution-over-IPsec-SSL-VPN/ta-p/191850)
 + [Azure SAML authentification for FortiGate SSL VPN (with Azure MFA)](http://yura.stryi.com/en/2021-03-05/fortigate-ssl-vpn-azure-mfa/)
 + [SSLVPN with Azure SAML](https://community.fortinet.com/t5/Fortinet-Forum/SSLVPN-with-Azure-SAML/m-p/204468/highlight/true#M189289)
+
+[Back to Forti Bookmarks](README.md#forti)
 
 ## Hyper-V
 + [Merge .avhd to .vhd](https://social.technet.microsoft.com/wiki/contents/articles/6257.manually-merge-avhd-to-vhd-in-hyper-v.aspx)
@@ -63,6 +72,8 @@
 + [Office 365 Anti-Spam IP Delist](https://sender.office.com/)
 + [5.7.511 Access denied errors](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide)
 + [Resolve unable to mount database](https://www.stellarinfo.com/blog/resolve-unable-mount-database-hr0x80040115-error/)
+
+[Back to Exchange Bookmarks](README.md#exchange)
 
 ## Oracle
 + [TNS_ADMIN](https://logic.edchen.org/tns_admin-how-and-why/)
@@ -82,10 +93,15 @@
 + [Restarting the Management agents in ESXi](https://kb.vmware.com/s/article/1003490)
 + [virtual machine fails to power on with the error: Unsupported and/or invalid disk type](https://kb.vmware.com/s/article/1028943)
 
+[Back to VMware Bookmarks](README.md#vmware)
+
 ## Veeam
+
 ### Veeam Backup for Microsoft 365
 + [Failed to backup list User Information List. Unknown Error](https://www.veeam.com/kb4326)
 + [Cannot change WebPart ExportMode to ‘All’. WebPart will be skipped](https://www.veeam.com/kb4091)
+
+[Back to Veeam Bookmarks](README.md#veeam)
 
 ### Veeam Backup & Replication
 + [Backing up Domain Controller](https://www.veeam.com/blog/backing-up-domain-controller-best-practices-for-ad-protection.html)
@@ -98,9 +114,13 @@
 + [support for VMware vSphere](https://www.veeam.com/kb2443)
 + [RPC connection fails with local administrator account](https://forums.veeam.com/microsoft-hyper-v-f25/rpc-connection-fails-with-local-administrator-account-t58686.html)
 
+[Back to Veeam Bookmarks](README.md#veeam)
+
 ### Veeam Agent for Windows
 + [Azure DC error](https://forums.veeam.com/veeam-agent-for-windows-f33/azure-dc-error-t38276.html)
 + [Error Partition exceeds disk layout](https://original-network.com/veeam-agent-for-windows-error-partition-exceeds-disk-1-layout-by/)
+
+[Back to Veeam Bookmarks](README.md#veeam)
 
 ## Windows
 + [delete a file that Windows says doesn't exist](https://superuser.com/questions/1277529/how-do-i-delete-a-file-that-windows-says-doesnt-exist)
@@ -113,3 +133,5 @@
 + [Using Remote Desktop Gateway v8 on Windows 7](https://lonewolfonline.net/remote-desktop-gateway-v8-windows-7/)
 + [Reset Windows localaccount passwords](https://www.ghacks.net/2019/01/07/how-to-reset-windows-10-account-passwords/)
 + [Either there is no default mail client or the current mail client cannot fulfill the messaging request. Please run Microsoft Outlook and set it as the default mail client](https://answers.microsoft.com/en-us/outlook_com/forum/all/either-there-is-no-default-mail-client-or-the/aba95463-e552-4560-8e1b-d2058ba6aa40)
+
+[Back to Windows Bookmarks](README.md#windows)

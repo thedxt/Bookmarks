@@ -1,4 +1,4 @@
-[Back to main list](README.md)
+[Back to Bookmarks](README.md)
 # Fixes for Random issues
 
 ## 365

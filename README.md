@@ -107,6 +107,7 @@ My collection of Bookmarks
 + [Veeam Backup for Microsoft 365](https://www.veeam.com/kb4106) (via Veeam)
 + [OpenVPN AS](https://openvpn.net/vpn-server-resources/release-notes/) (via OpenVPN)
 + [End of Life List](https://endoflife.date/) (via endoflife.date)
++ [SCCM aka MEM aka Configuration Manager](https://docs.microsoft.com/en-us/mem/configmgr/core/servers/manage/updates#supported-versions) (Via Microsoft)
 
 ## RMM Agent Removal
 + [LabTech Removal](https://gist.github.com/ak9999/e68da02d7957bd7db2a2a647f76d50be) (via ak9999 gist github)

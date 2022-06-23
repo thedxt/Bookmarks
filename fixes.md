@@ -134,5 +134,6 @@ My collection of fixes
 + [Using Remote Desktop Gateway v8 on Windows 7](https://lonewolfonline.net/remote-desktop-gateway-v8-windows-7/)
 + [Reset Windows localaccount passwords](https://www.ghacks.net/2019/01/07/how-to-reset-windows-10-account-passwords/)
 + [Either there is no default mail client or the current mail client cannot fulfill the messaging request. Please run Microsoft Outlook and set it as the default mail client](https://answers.microsoft.com/en-us/outlook_com/forum/all/either-there-is-no-default-mail-client-or-the/aba95463-e552-4560-8e1b-d2058ba6aa40)
++ [Convert Windows 10 Evaluation to Full ](https://appsforpcfree.net/upgrade-windows-10-evaluation-full-version-easily/)
 
 [Back to Windows Bookmarks](README.md#windows)

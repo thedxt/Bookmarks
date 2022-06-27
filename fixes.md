@@ -135,5 +135,6 @@ My collection of fixes
 + [Reset Windows localaccount passwords](https://www.ghacks.net/2019/01/07/how-to-reset-windows-10-account-passwords/)
 + [Either there is no default mail client or the current mail client cannot fulfill the messaging request. Please run Microsoft Outlook and set it as the default mail client](https://answers.microsoft.com/en-us/outlook_com/forum/all/either-there-is-no-default-mail-client-or-the/aba95463-e552-4560-8e1b-d2058ba6aa40)
 + [Convert Windows 10 Evaluation to Full ](https://appsforpcfree.net/upgrade-windows-10-evaluation-full-version-easily/)
++ [cannot shrink a VHDX file because you cannot shrink the volume on the virtual disk](https://blog.workinghardinit.work/2016/08/09/you-cannot-shrink-a-vhdx-file-because-you-cannot-shrink-the-volume-on-the-virtual-disk/)
 
 [Back to Windows Bookmarks](README.md#windows)

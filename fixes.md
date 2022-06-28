@@ -57,7 +57,7 @@ My collection of fixes
 + [Fan always at Full Speed](https://serverfault.com/questions/715387/how-do-i-stop-dell-r730xd-fans-from-going-full-speed-when-broadcom-qlogic-netxtr/733064#733064)
 
 ## Forti
-+ [DNS resolution over IPsec/SSL VPN](https://community.fortinet.com/t5/FortiGate/Technical-Tip-DNS-resolution-over-IPsec-SSL-VPN/ta-p/191850)
++ [DNS resolution over IPsec/VPN](https://community.fortinet.com/t5/FortiGate/Technical-Tip-DNS-resolution-over-IPsec-SSL-VPN/ta-p/191850)
 + [Azure SAML authentification for FortiGate SSL VPN (with Azure MFA)](http://yura.stryi.com/en/2021-03-05/fortigate-ssl-vpn-azure-mfa/)
 + [SSLVPN with Azure SAML](https://community.fortinet.com/t5/Fortinet-Forum/SSLVPN-with-Azure-SAML/m-p/204468/highlight/true#M189289)
 
@@ -85,6 +85,11 @@ My collection of fixes
 
 ## SSCM / MEM
 + [Windows Firewall and port settings for clients in Configuration Manager](https://docs.microsoft.com/en-us/mem/configmgr/core/clients/deploy/windows-firewall-and-port-settings-for-clients)
+
+## SSL / TLS
++ [Updating AD FS SSL](https://blog.rmilne.ca/2016/03/21/updating-windows-server-2012-r2-adfs-ssl-and-service-certificates/)
+
+[Back to SSL / TLS Bookmarks](README.md#ssl--tls)
 
 ## Veeam
 

@@ -83,8 +83,9 @@ My collection of fixes
 + [RDS Collection error: Unable to configure the RD Sessionhost server. Invalid operation](http://blog.ronnypot.nl/?p=1041)
 + [Step by Step Windows 2019 Remote Desktop Services – Using the GUI](https://msfreaks.wordpress.com/2018/10/06/step-by-step-windows-2019-remote-desktop-services-using-the-gui/)
 
-## SSCM / MEM
+## SCCM / MEM
 + [Windows Firewall and port settings for clients in Configuration Manager](https://docs.microsoft.com/en-us/mem/configmgr/core/clients/deploy/windows-firewall-and-port-settings-for-clients)
++ [Manually Backup SCCM](https://www.prajwaldesai.com/how-to-backup-sccm-2012-r2-server/)
 
 ## SSL / TLS
 + [Updating AD FS SSL](https://blog.rmilne.ca/2016/03/21/updating-windows-server-2012-r2-adfs-ssl-and-service-certificates/)

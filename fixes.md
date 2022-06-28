@@ -86,10 +86,10 @@ My collection of fixes
 ## SSCM / MEM
 + [Windows Firewall and port settings for clients in Configuration Manager](https://docs.microsoft.com/en-us/mem/configmgr/core/clients/deploy/windows-firewall-and-port-settings-for-clients)
 
-## SSL / TLS
+## SSL - TLS
 + [Updating AD FS SSL](https://blog.rmilne.ca/2016/03/21/updating-windows-server-2012-r2-adfs-ssl-and-service-certificates/)
 
-[Back to SSL / TLS Bookmarks](README.md#ssl--tls)
+[Back to SSL / TLS Bookmarks](README.md#ssl---tls)
 
 ## Veeam
 

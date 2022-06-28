@@ -112,7 +112,7 @@ My collection of Bookmarks
 ## RMM Agent Removal
 + [LabTech Removal](https://gist.github.com/ak9999/e68da02d7957bd7db2a2a647f76d50be) (via ak9999 gist github)
 
-## SSL / TLS
+## SSL - TLS
 + [Online SSL Converter](https://www.sslshopper.com/ssl-converter.html) (via SSL Shopper)
 + [Browser SSL/TLS tester](https://www.howsmyssl.com/) (via How's My SSL)
 + [Public SSL Server Tester](https://www.ssllabs.com/ssltest/) (via Qualys SSL Labs)

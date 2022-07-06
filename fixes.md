@@ -74,10 +74,11 @@ My collection of fixes
 + [5.7.511 Access denied errors](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/use-the-delist-portal-to-remove-yourself-from-the-office-365-blocked-senders-lis?view=o365-worldwide)
 + [Resolve unable to mount database](https://www.stellarinfo.com/blog/resolve-unable-mount-database-hr0x80040115-error/)
 
-[Back to Exchange Bookmarks](README.md#exchange)
+[Back to Exchange Bookmarks](README.md#exchange) 
 
 ## Oracle
 + [TNS_ADMIN](https://logic.edchen.org/tns_admin-how-and-why/)
++ [Manually Remove Oracle Client](https://oracle-base.com/articles/misc/manual-oracle-uninstall)
 
 ## RDS
 + [RDS Collection error: Unable to configure the RD Sessionhost server. Invalid operation](http://blog.ronnypot.nl/?p=1041)

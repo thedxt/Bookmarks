@@ -91,6 +91,7 @@ My collection of Bookmarks
 
 ## PaloAlto
 + [URL Filtering Test Pages](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClaDCAS) (via PaloAlto)
++ [PAN OS CLI Cheat Sheet](https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-cli-quick-start/cli-cheat-sheets/cli-cheat-sheet-networking) (via PaloAlto)
 
 ## Releases
 + [Microsoft 365 roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=66584) (via Microsoft)

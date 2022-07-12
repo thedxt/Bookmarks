@@ -17,6 +17,7 @@ My collection of Bookmarks
 + [Immediately revoke access](https://www.michev.info/Blog/Post/1137/immediately-revoke-access-to-office-365-applications) (via michev.info)
 + [Microsoft Remote Connectivity Analyzer](https://testconnectivity.microsoft.com/) (via Microsoft)
 + [Change a Users Primary Email Address](http://www.techunboxed.com/2013/05/how-to-change-users-primary-email.html) (via techunboxed.com)
++ [check sharepoint folder for unique permissions](https://www.sharepointdiary.com/2019/06/sharepoint-online-check-if-folder-has-unique-permissions.html) (via sharepointdiary.com)
 
 [365 Fixes](fixes.md#365)
 

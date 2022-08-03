@@ -95,6 +95,9 @@ My collection of Bookmarks
 + [URL Filtering Test Pages](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClaDCAS) (via PaloAlto)
 + [PAN OS CLI Cheat Sheet](https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-cli-quick-start/cli-cheat-sheets/cli-cheat-sheet-networking) (via PaloAlto)
 
+## Printers
++ [Canon Remote Operator's Software Kit (useful to document how to use the printer for end users)](https://www.usa.canon.com/internet/portal/us/home/support/details/software/accessibility/remote-operators-software-kit?subtab=downloads-software) (via Canon)
+
 ## Releases
 + [Microsoft 365 roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=66584) (via Microsoft)
 + [Windows 10 Home and Pro](https://docs.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro) (via Microsoft)

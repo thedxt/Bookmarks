@@ -128,6 +128,10 @@ My collection of Bookmarks
 
 [SSL / TLS Fixes](fixes.md#ssl--tls)
 
+## Tools
++ [Focus finder](https://www.happydroid.com/focus) (via HappyDroid)
+  + For finding what steals window focus in Windows
+
 ## Training
 + [PaloAlto Beacon](https://beacon.paloaltonetworks.com/student/catalog) (via PaloAlto)
 

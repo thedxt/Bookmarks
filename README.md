@@ -100,6 +100,8 @@ My collection of Bookmarks
 
 ## Releases
 + [Microsoft 365 roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=66584) (via Microsoft)
++ [Windows Server release information](https://docs.microsoft.com/en-us/windows/release-health/windows-server-release-info) (via Microsoft)
++ [Windows 10 release information](https://docs.microsoft.com/en-us/windows/release-health/release-information) (via Microsoft)
 + [Windows 10 Home and Pro](https://docs.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro) (via Microsoft)
 + [Microsoft 365 Apps](https://docs.microsoft.com/en-us/officeupdates/update-history-microsoft365-apps-by-date) (via Microsoft)
 + [ODT (Office Deployment Tool)](https://docs.microsoft.com/en-us/officeupdates/odt-release-history) (via Microsoft)

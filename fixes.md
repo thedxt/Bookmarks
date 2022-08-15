@@ -17,6 +17,7 @@ My collection of fixes
 + [Restrict Microsoft 365 Groups Creation](https://docs.microsoft.com/en-us/microsoft-365/solutions/manage-creation-of-groups?view=o365-worldwide)
 + [Get Recycle Bin Storage Size SharePoint Online](https://www.sharepointdiary.com/2017/12/sharepoint-online-get-recycle-bin-storage-size-using-powershell.html)
 + [Restore deleted mail items to their original folder](https://o365info.com/restore-deleted-mail-items-to-their-original-folder-using-powershell-introduction-1-3/)
++ [Azure AD connect refuses to Start versions older than 2.1.1.0](https://docs.microsoft.com/en-us/troubleshoot/azure/active-directory/resolve-model-database-corruption-sqllocaldb)
 
 [Back to 365 Bookmarks](README.md#365)
 

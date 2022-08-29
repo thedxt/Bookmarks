@@ -72,6 +72,13 @@ My collection of Bookmarks
 
 [Forti Fixes](fixes.md#forti)
 
+## Lists (IPs and URLs)
+
++ [Office/Microsoft 365 IPs and URL](https://docs.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide#related-topics) (via Microsoft)
++ [Office/Microsoft 365 IPs and URL](https://docs.paloaltonetworks.com/resources/edl-hosting-service) (via PaloAlto)
++ [DocuSing IPs and URLs](https://www.docusign.com/trust/security/esignature) (via DocuSign)
++ [CloudFlare IPs](https://www.cloudflare.com/ips/) (via CloudFlare)
+
 ## Microsoft
 + [Product and Services Lifecycle](https://docs.microsoft.com/en-us/lifecycle/products/) (via Microsoft)
 + [IE to Edge End User info](https://microsoftedgewelcome.microsoft.com/en-us/mb03?source=mb03&form=MA13E6) (via Microsoft)

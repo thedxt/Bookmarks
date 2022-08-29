@@ -78,6 +78,7 @@ My collection of Bookmarks
 + [Office/Microsoft 365 IPs and URL](https://docs.paloaltonetworks.com/resources/edl-hosting-service) (via PaloAlto)
 + [DocuSing IPs and URLs](https://www.docusign.com/trust/security/esignature) (via DocuSign)
 + [CloudFlare IPs](https://www.cloudflare.com/ips/) (via CloudFlare)
++ [Meraki Cloud IPs](https://documentation.meraki.com/General_Administration/Other_Topics/Upstream_Firewall_Rules_for_Cloud_Connectivity) (via Meraki)
 
 ## Microsoft
 + [Product and Services Lifecycle](https://docs.microsoft.com/en-us/lifecycle/products/) (via Microsoft)

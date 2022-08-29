@@ -145,6 +145,7 @@ My collection of Bookmarks
 ## Tools
 + [Focus finder](https://www.happydroid.com/focus) (via HappyDroid)
   + For finding what steals window focus in Windows
++ [CIDR Calculator](https://account.arin.net/public/cidrCalculator) (via ARIN)
 
 ## Training
 + [PaloAlto Beacon](https://beacon.paloaltonetworks.com/student/catalog) (via PaloAlto)

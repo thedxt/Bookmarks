@@ -143,6 +143,28 @@ My collection of Bookmarks
 
 [SSL / TLS Fixes](fixes.md#ssl--tls)
 
+## Status Pages
++ [Cloudflare](https://www.cloudflarestatus.com/)
++ [geoLOGIC](https://www.geologic.com/system-status/)
++ [Microsoft 365](https://status.office.com/)
++ [Duo](https://status.duo.com/)
++ [BitTitan](https://status.bittitan.com/)
++ [Enverus](https://status.ba.enverus.com/)
++ [IT Glue](https://status.itglue.com/)
++ [Barracuda](https://status.barracuda.com/)
++ [Atera](https://status.atera.com/)
++ [GoTo Connect](https://status.gotoconnect.com/)
++ [Jive](https://status.jivesoftware.com/)
++ [AWS](https://health.aws.amazon.com/health/status)
++ [N-Able](https://uptime.n-able.com/)
++ [FreshBooks](https://status.freshbooks.com/)
++ [FreshDesk](https://updates.freshdesk.com/)
++ [Google Workspace](https://www.google.com/appsstatus/dashboard/)
++ [Datto](https://status.datto.com/)
++ [ConnectWise](https://status.connectwise.com/)
++ [GitHub](https://www.githubstatus.com/)
+
+
 ## Tools
 + [Focus finder](https://www.happydroid.com/focus) (via HappyDroid)
   + For finding what steals window focus in Windows

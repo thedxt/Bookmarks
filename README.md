@@ -176,7 +176,7 @@ My collection of Bookmarks
 ## Info Tools
 + [Cloudflare Domain and IP info](https://radar.cloudflare.com/domain/) (via Cloudflare)
 + [IP info](https://db-ip.com/) (via dp-ip.com)
-+ [List of Report Phishing and Malware link](https://decentsecurity.com/#/malware-web-and-phishing-investigation/) (via DecentSecurity)
++ [List of Phishing and Malware reporting links](https://decentsecurity.com/#/malware-web-and-phishing-investigation/) (via DecentSecurity)
 + [URL Checker (urlscan)](https://urlscan.io/) (via urlscan.io)
 + [URL Checker (checkphish)](https://checkphish.ai/) (via checkphish.ai)
 + [URL Checker (phishcheck)](https://phishcheck.me/) (via phishcheck.me)

@@ -173,6 +173,16 @@ My collection of Bookmarks
 ## Training
 + [PaloAlto Beacon](https://beacon.paloaltonetworks.com/student/catalog) (via PaloAlto)
 
+## Info Tools
++ [Cloudflare Domain and IP info](https://radar.cloudflare.com/domain/) (via Cloudflare)
++ [IP info](https://db-ip.com/) (via dp-ip.com)
++ [List of Report Phishing and Malware link](https://decentsecurity.com/#/malware-web-and-phishing-investigation/) (via DecentSecurity)
++ [URL Checker (urlscan)](https://urlscan.io/) (via urlscan.io)
++ [URL Checker (checkphish)](https://checkphish.ai/) (via checkphish.ai)
++ [URL Checker (phishcheck)](https://phishcheck.me/) (via phishcheck.me)
++ [VirtusTotal](https://www.virustotal.com/) (via VirtusTotal)
++ [Any Run](https://app.any.run/) (via Any Run)
+
 ## Installer Tweaking
 + [InnoExtractor](http://www.havysoft.cl/innoextractor.html) (via havysoft.cl)
 + [Ultimate Silent Switch Finder (USSF)](https://www.capstanservices.com/tools-blog/2018/4/4/the-ultimate-silent-switch-finder-ussf) (via Capstan Services)

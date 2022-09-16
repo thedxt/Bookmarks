@@ -181,7 +181,7 @@ My collection of Bookmarks
 + [URL Checker (checkphish)](https://checkphish.ai/) (via checkphish.ai)
 + [URL Checker (phishcheck)](https://phishcheck.me/) (via phishcheck.me)
 + [VirtusTotal](https://www.virustotal.com/) (via VirtusTotal)
-+ [Any Run](https://app.any.run/) (via Any Run)
++ [Any Run](https://app.any.run/) (via Any.Run)
 
 ## Installer Tweaking
 + [InnoExtractor](http://www.havysoft.cl/innoextractor.html) (via havysoft.cl)

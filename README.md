@@ -229,5 +229,6 @@ My collection of Bookmarks
 + [Concurrent RDP Patcher Windows 7](https://www.raymond.cc/blog/enable-remote-desktop-connection-in-windows-7-home-premium/) (via raymond.cc)
 + [Remove ScrewDrivers](https://tricerat.atlassian.net/wiki/spaces/TKB/pages/53837834/Upgrading+to+ScrewDrivers+v6) (via tricerat.atlassian.net)
 + [Silent Install ScrewDrivers](https://tricerat.atlassian.net/wiki/spaces/TKB/pages/347242517/Silent+Install+Switches+v6.6.0+-+v6.6.1) (via tricerat.atlassian.net)
++ [Generic Windows Keys](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys) (via Microsoft)
 
 [Windows Fixes](fixes.md#Windows)

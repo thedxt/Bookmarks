@@ -34,6 +34,13 @@ My collection of Bookmarks
 + [Bitdefender uninstall tool](https://www.bitdefender.com/business/support/en/77209-80124-remove-bitdefender-endpoint-security-tools-using-the-uninstall-tool.html) (via bitdefender)
 + [AV Defender removal tool](https://success.n-able.com/kb/solarwinds_n-central/Where-to-download-the-latest-AV-Defender-removal-tool)
 
+## Cisco UCS
++ [UCSM health check Tool](https://github.com/CiscoDevNet/ucsm_health_check) (via Cisco GitHub)
+
+## Compatibility Matrix
++ [Cisco UCS Hardware and Software](https://ucshcltool.cloudapps.cisco.com/public/) (via Cisco)
++ [VMware Compatibility Guide](https://www.vmware.com/resources/compatibility/search.php) (via VMware)
+
 ## DB
 + [Rest lost SQL Express SA Password](https://www.vladan.fr/how-to-reset-lost-sa-password-in-sql-express/) (via vladan.fr)
 + [List schemas in Oracle](https://dataedo.com/kb/query/oracle/list-schemas-in-database) (via dataedo)

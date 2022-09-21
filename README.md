@@ -40,6 +40,7 @@ My collection of Bookmarks
 ## Compatibility Matrix
 + [Cisco UCS Hardware and Software](https://ucshcltool.cloudapps.cisco.com/public/) (via Cisco)
 + [VMware Compatibility Guide](https://www.vmware.com/resources/compatibility/search.php) (via VMware)
++ [VMware Interoperability Matrix](https://interopmatrix.vmware.com/Interoperability) (via VMware)
 
 ## DB
 + [Rest lost SQL Express SA Password](https://www.vladan.fr/how-to-reset-lost-sa-password-in-sql-express/) (via vladan.fr)

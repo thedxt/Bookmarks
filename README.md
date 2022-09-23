@@ -155,6 +155,7 @@ My collection of Bookmarks
 + [Cloudflare](https://www.cloudflarestatus.com/)
 + [geoLOGIC](https://www.geologic.com/system-status/)
 + [Microsoft 365](https://status.office.com/)
++ [Office 365](https://portal.office.com/servicestatus)
 + [Duo](https://status.duo.com/)
 + [BitTitan](https://status.bittitan.com/)
 + [Enverus](https://status.ba.enverus.com/)

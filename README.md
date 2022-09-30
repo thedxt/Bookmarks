@@ -110,6 +110,7 @@ My collection of Bookmarks
 
 ## PaloAlto
 + [URL Filtering Test Pages](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClaDCAS) (via PaloAlto)
++ [List of URL Filtering Categories](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000Cm5hCAC) (via PaloAlto)
 + [PAN OS CLI Cheat Sheet](https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-cli-quick-start/cli-cheat-sheets/cli-cheat-sheet-networking) (via PaloAlto)
 + [Applipedia for App-ID](https://applipedia.paloaltonetworks.com/) (via PaloAlto)
 

@@ -213,6 +213,7 @@ My collection of Bookmarks
 + [Veeam Service Provider Best Practices](https://bp.veeam.com/sp/) (via Veeam)
 + [Veeam Backup & Replication Best Practices](https://bp.veeam.com/vbr) (via Veeam)
 + [Veeam Backup for Microsoft 365 Best Practices](https://bp.veeam.com/vbo/) (via Veeam)
++ [Required Permissions for VMware vSphere](https://helpcenter.veeam.com/docs/backup/permissions/installation.html?ver=110) (via Veeam)
 
 [Veeam Fixes](fixes.md#veeam)
 

@@ -107,6 +107,7 @@ My collection of Bookmarks
 ## Networking
 + [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html) (via aelius.com)
 + [Online IP Subnet Calculator](https://www.subnet-calculator.com/) (via subnet-calculator.com)
++ [CIDR Calculator](https://account.arin.net/public/cidrCalculator) (via arin.net)
 
 ## PaloAlto
 + [URL Filtering Test Pages](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClaDCAS) (via PaloAlto)

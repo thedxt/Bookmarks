@@ -88,6 +88,7 @@ My collection of Bookmarks
 + [CloudFlare IPs](https://www.cloudflare.com/ips/) (via CloudFlare)
 + [Meraki Cloud IPs](https://documentation.meraki.com/General_Administration/Other_Topics/Upstream_Firewall_Rules_for_Cloud_Connectivity) (via Meraki)
 + [Ninite URLs](https://ninite-docs.com/appsheet/security.html) (via Ninite)
++ [Adobe URLs](https://helpx.adobe.com/enterprise/kb/network-endpoints.html) (via Adobe)
 
 ## Microsoft
 + [Product and Services Lifecycle](https://docs.microsoft.com/en-us/lifecycle/products/) (via Microsoft)

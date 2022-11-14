@@ -95,6 +95,7 @@ My collection of Bookmarks
 + [IE to Edge End User info](https://microsoftedgewelcome.microsoft.com/en-us/mb03?source=mb03&form=MA13E6) (via Microsoft)
 + [Edge End User info](https://microsoftedgewelcome.microsoft.com/) (via Microsoft)
 + [Various MS Portals](https://msportals.io/) (via msportals.io)
++ [Various MS Portals and commands](https://cmd.ms/) (via cmd.ms)
 
 ## Migration
 + [Exchange 2007+ (Hosted and On-Premises) to Microsoft 365 Migration Guide](https://help.bittitan.com/hc/en-us/articles/115008266088) (via BitTitan)

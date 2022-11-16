@@ -89,6 +89,15 @@ My collection of Bookmarks
 + [Meraki Cloud IPs](https://documentation.meraki.com/General_Administration/Other_Topics/Upstream_Firewall_Rules_for_Cloud_Connectivity) (via Meraki)
 + [Ninite URLs](https://ninite-docs.com/appsheet/security.html) (via Ninite)
 + [Adobe URLs](https://helpx.adobe.com/enterprise/kb/network-endpoints.html) (via Adobe)
++ [GoTo IPs and URLs](https://support.goto.com/meeting/help/allowlisting-and-firewall-configuration) (via GoTo)
++ [Salesforce IPs and URLs](https://help.salesforce.com/s/articleView?id=000384438&type=1) (via Salesforce)
++ [Spamhaus DROP list](https://www.spamhaus.org/drop/) (via Spamhaus)
++ [Feodo Tracker Blocklist list](https://feodotracker.abuse.ch/blocklist/) (via abuse.ch)
++ [URLhaus Database](https://urlhaus.abuse.ch/browse/) (via abuse.ch)
++ [Proofpoint Emerging Threats list](https://rules.emergingthreats.net/blockrules/) (via Proofpoint)
++ [Talos Cisco Talos Threat Intelligence Blacklist](https://talosintelligence.com/documents/ip-blacklist) (via Spamhaus)
++ [Webex IPs and URLs](https://help.webex.com/en-us/article/WBX264/How-Do-I-Allow-Webex-Meetings-Traffic-on-My-Network?) (via Webex)
++ [Zoom IPs and URLs](https://support.zoom.us/hc/en-us/articles/201362683-Network-firewall-or-proxy-server-settings-for-Zoom) (via Zoom)
 
 ## Microsoft
 + [Product and Services Lifecycle](https://docs.microsoft.com/en-us/lifecycle/products/) (via Microsoft)
@@ -117,7 +126,6 @@ My collection of Bookmarks
 + [List of URL Filtering Categories](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000Cm5hCAC) (via PaloAlto)
 + [PAN OS CLI Cheat Sheet](https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-cli-quick-start/cli-cheat-sheets/cli-cheat-sheet-networking) (via PaloAlto)
 + [Applipedia for App-ID](https://applipedia.paloaltonetworks.com/) (via PaloAlto)
-+ [PaloAlto Best Practices](https://docs.paloaltonetworks.com/best-practices) (via PaloAlto)
 
 ## Printers
 + [Canon Remote Operator's Software Kit (useful to document how to use the printer for end users)](https://www.usa.canon.com/internet/portal/us/home/support/details/software/accessibility/remote-operators-software-kit?subtab=downloads-software) (via Canon)
@@ -183,8 +191,6 @@ My collection of Bookmarks
 ## Tools
 + [Focus finder](https://www.happydroid.com/focus) (via HappyDroid)
   + For finding what steals window focus in Windows
-+ [Basilisk Portable With Flash Player](https://archive.org/details/basilisk-portable-with-flash) (via archive.org)
-  + For those times where you randomly need flash
 
 ## Training
 + [PaloAlto Beacon](https://beacon.paloaltonetworks.com/student/catalog) (via PaloAlto)

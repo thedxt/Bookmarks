@@ -183,6 +183,8 @@ My collection of Bookmarks
 ## Tools
 + [Focus finder](https://www.happydroid.com/focus) (via HappyDroid)
   + For finding what steals window focus in Windows
++ [Basilisk Portable With Flash Player](https://archive.org/details/basilisk-portable-with-flash) (via archive.org)
+  + For those times where you randomly need flash
 
 ## Training
 + [PaloAlto Beacon](https://beacon.paloaltonetworks.com/student/catalog) (via PaloAlto)

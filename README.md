@@ -126,6 +126,7 @@ My collection of Bookmarks
 + [List of URL Filtering Categories](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000Cm5hCAC) (via PaloAlto)
 + [PAN OS CLI Cheat Sheet](https://docs.paloaltonetworks.com/pan-os/10-2/pan-os-cli-quick-start/cli-cheat-sheets/cli-cheat-sheet-networking) (via PaloAlto)
 + [Applipedia for App-ID](https://applipedia.paloaltonetworks.com/) (via PaloAlto)
++ [PaloAlto Best Practices](https://docs.paloaltonetworks.com/best-practices) (via PaloAlto)
 
 ## Printers
 + [Canon Remote Operator's Software Kit (useful to document how to use the printer for end users)](https://www.usa.canon.com/internet/portal/us/home/support/details/software/accessibility/remote-operators-software-kit?subtab=downloads-software) (via Canon)
@@ -191,6 +192,8 @@ My collection of Bookmarks
 ## Tools
 + [Focus finder](https://www.happydroid.com/focus) (via HappyDroid)
   + For finding what steals window focus in Windows
++ [Basilisk Portable With Flash Player](https://archive.org/details/basilisk-portable-with-flash) (via archive.org)
+  + For those times where you randomly need flash
 
 ## Training
 + [PaloAlto Beacon](https://beacon.paloaltonetworks.com/student/catalog) (via PaloAlto)

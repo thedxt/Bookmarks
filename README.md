@@ -89,6 +89,15 @@ My collection of Bookmarks
 + [Meraki Cloud IPs](https://documentation.meraki.com/General_Administration/Other_Topics/Upstream_Firewall_Rules_for_Cloud_Connectivity) (via Meraki)
 + [Ninite URLs](https://ninite-docs.com/appsheet/security.html) (via Ninite)
 + [Adobe URLs](https://helpx.adobe.com/enterprise/kb/network-endpoints.html) (via Adobe)
++ [GoTo IPs and URLs](https://support.goto.com/meeting/help/allowlisting-and-firewall-configuration) (via GoTo)
++ [Salesforce IPs and URLs](https://help.salesforce.com/s/articleView?id=000384438&type=1) (via Salesforce)
++ [Spamhaus DROP list](https://www.spamhaus.org/drop/) (via Spamhaus)
++ [Feodo Tracker Blocklist list](https://feodotracker.abuse.ch/blocklist/) (via abuse.ch)
++ [URLhaus Database](https://urlhaus.abuse.ch/browse/) (via abuse.ch)
++ [Proofpoint Emerging Threats list](https://rules.emergingthreats.net/blockrules/) (via Proofpoint)
++ [Talos Cisco Talos Threat Intelligence Blacklist](https://talosintelligence.com/documents/ip-blacklist) (via Spamhaus)
++ [Webex IPs and URLs](https://help.webex.com/en-us/article/WBX264/How-Do-I-Allow-Webex-Meetings-Traffic-on-My-Network?) (via Webex)
++ [Zoom IPs and URLs](https://support.zoom.us/hc/en-us/articles/201362683-Network-firewall-or-proxy-server-settings-for-Zoom) (via Zoom)
 
 ## Microsoft
 + [Product and Services Lifecycle](https://docs.microsoft.com/en-us/lifecycle/products/) (via Microsoft)
@@ -209,7 +218,7 @@ My collection of Bookmarks
 + [Veeam Backup Microsoft 365](https://community.chocolatey.org/packages/veeam-backup-for-microsoft-365-iso/) (via Chocolatey)
 + [VMware Tools all versions](https://packages.vmware.com/tools/esx/) (via VMware)
 + [VMware Tools](https://community.chocolatey.org/packages/vmware-tools#files) (via Chocolatey)
-### ISO Tools
+### ISO Tools 
 + [Easy2Boot](https://easy2boot.xyz/) (via easy2boot.xyz)
 + [Ventoy](https://www.ventoy.net/en/index.html) (via Ventoy.net)
 + [WinSetupFromUSB](http://www.winsetupfromusb.com/downloads/) (via winsetupfromusb.com)

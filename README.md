@@ -70,6 +70,9 @@ My collection of Bookmarks
 + [Barracuda Reputation check](https://barracudacentral.org/lookups) (via Barracuda)
 + [Historical DNS Data](https://securitytrails.com/domain/github.com/history/a) (via SecurityTrails.com)
 
+## Email
++ [Learn and Test DMARC](https://www.learndmarc.com/) (via LearnDMARC.com)
+
 ## Exchange
 + [Decommission Exchange after 365 Migration](https://techpress.net/decommission-exchange-server-after-office-365-migration/) (via techpress.net)
 
@@ -120,6 +123,7 @@ My collection of Bookmarks
 + [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html) (via aelius.com)
 + [Online IP Subnet Calculator](https://www.subnet-calculator.com/) (via subnet-calculator.com)
 + [CIDR Calculator](https://account.arin.net/public/cidrCalculator) (via arin.net)
++ [Subnet Caclulator](https://www.calculator.net/ip-subnet-calculator.html) (via calculator.net)
 
 ## PaloAlto
 + [URL Filtering Test Pages](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClaDCAS) (via PaloAlto)
@@ -194,6 +198,8 @@ My collection of Bookmarks
   + For finding what steals window focus in Windows
 + [Basilisk Portable With Flash Player](https://archive.org/details/basilisk-portable-with-flash) (via archive.org)
   + For those times where you randomly need flash
++ [MX Toolbox](https://mxtoolbox.com/NetworkTools.aspx) (via MX Toolbox)
+  + Email, Network, Website and DNS tools
 
 ## Training
 + [PaloAlto Beacon](https://beacon.paloaltonetworks.com/student/catalog) (via PaloAlto)

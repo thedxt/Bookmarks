@@ -101,6 +101,7 @@ My collection of Bookmarks
 + [Talos Cisco Talos Threat Intelligence Blacklist](https://talosintelligence.com/documents/ip-blacklist) (via Spamhaus)
 + [Webex IPs and URLs](https://help.webex.com/en-us/article/WBX264/How-Do-I-Allow-Webex-Meetings-Traffic-on-My-Network?) (via Webex)
 + [Zoom IPs and URLs](https://support.zoom.us/hc/en-us/articles/201362683-Network-firewall-or-proxy-server-settings-for-Zoom) (via Zoom)
++ [Google updates URLs](https://support.google.com/chrome/a/answer/6350036#zippy=%2Cwhat-urls-are-used-for-chrome-browser-updates) (via Google)
 
 ## Microsoft
 + [Product and Services Lifecycle](https://docs.microsoft.com/en-us/lifecycle/products/) (via Microsoft)

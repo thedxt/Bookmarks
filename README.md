@@ -167,6 +167,7 @@ My collection of Bookmarks
 + [Browser SSL/TLS tester](https://www.howsmyssl.com/) (via How's My SSL)
 + [Public SSL Server Tester](https://www.ssllabs.com/ssltest/) (via Qualys SSL Labs)
 + [SSL Checker](https://www.sslshopper.com/ssl-checker.html) (via SSL Shopper)
++ [Chain Cert checker and fixer](https://whatsmychaincert.com/) (via What's My Chain Cert?)
 + [Provisioning CA and Server Certificates on Cisco ISE](https://rscciew.wordpress.com/2014/05/24/provisioning-ca-and-server-certificates-on-cisco-ise/) (via rscciew)
 
 [SSL / TLS Fixes](fixes.md#ssl--tls)

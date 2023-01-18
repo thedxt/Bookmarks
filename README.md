@@ -135,6 +135,7 @@ My collection of Bookmarks
 
 ## Printers
 + [Canon Remote Operator's Software Kit (useful to document how to use the printer for end users)](https://www.usa.canon.com/internet/portal/us/home/support/details/software/accessibility/remote-operators-software-kit?subtab=downloads-software) (via Canon)
++ [HP Fax Test Service (can be used to test fax sending and fax reciving)](https://support.hp.com/us-en/document/ish_2385619-2276753-16) (via HP)
 
 ## Releases
 + [Microsoft 365 roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=66584) (via Microsoft)

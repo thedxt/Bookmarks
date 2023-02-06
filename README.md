@@ -34,6 +34,9 @@ My collection of Bookmarks
 + [Bitdefender uninstall tool](https://www.bitdefender.com/business/support/en/77209-80124-remove-bitdefender-endpoint-security-tools-using-the-uninstall-tool.html) (via bitdefender)
 + [AV Defender removal tool](https://success.n-able.com/kb/solarwinds_n-central/Where-to-download-the-latest-AV-Defender-removal-tool)
 
+## Bios
++ [Lenovo BIOS Simulator](https://download.lenovo.com/bsco/index.html) (via Lenovo)
+
 ## Cisco UCS
 + [UCSM health check Tool](https://github.com/CiscoDevNet/ucsm_health_check) (via Cisco GitHub)
 

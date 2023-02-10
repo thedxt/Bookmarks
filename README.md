@@ -154,6 +154,7 @@ My collection of Bookmarks
 + [ESXi](https://kb.vmware.com/s/article/2143832) (via VMware)
 + [UniFi](https://community.ui.com/releases) (via Ubiquiti)
 + [Veeam Backup & Replication](https://www.veeam.com/kb2680) (via Veeam)
++ [Veeam Backup & Replication Build Release dates with RTM and GA](https://forums.veeam.com/veeam-backup-replication-f2/current-version-t9456.html)
 + [Veeam Backup for Microsoft 365](https://www.veeam.com/kb4106) (via Veeam)
 + [OpenVPN AS](https://openvpn.net/vpn-server-resources/release-notes/) (via OpenVPN)
 + [End of Life List](https://endoflife.date/) (via endoflife.date)

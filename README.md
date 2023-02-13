@@ -148,6 +148,7 @@ My collection of Bookmarks
 + [Microsoft 365 Apps](https://docs.microsoft.com/en-us/officeupdates/update-history-microsoft365-apps-by-date) (via Microsoft)
 + [ODT (Office Deployment Tool)](https://docs.microsoft.com/en-us/officeupdates/odt-release-history) (via Microsoft)
 + [Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-version-history) (via Microsoft)
++ [Azure AD Pass-through Authentication agent](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-pta-version-history) (via Microsoft)
 + [Windows release health](https://docs.microsoft.com/en-us/windows/release-health/) (via Microsoft)
 + [ADMX (Group Policy Administrative Templates)](https://docs.microsoft.com/en-US/troubleshoot/windows-client/group-policy/create-and-manage-central-store) (via Microsoft)
 + [VCSA](https://kb.vmware.com/s/article/2143838) (via VMware)

@@ -160,6 +160,7 @@ My collection of Bookmarks
 + [End of Life List](https://endoflife.date/) (via endoflife.date)
 + [SCCM aka MEM aka Configuration Manager](https://docs.microsoft.com/en-us/mem/configmgr/core/servers/manage/updates#supported-versions) (via Microsoft)
 + [Adobe Acrobat and Adobe Reader Release Notes](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html) (via Adobe)
++ [PAN-OS Software Release Guidance](https://live.paloaltonetworks.com/t5/customer-resources/support-pan-os-software-release-guidance/ta-p/258304) (via PaloAlto - behind a login wall)
 
 ## RMM Agent Removal
 + [LabTech Removal](https://gist.github.com/ak9999/e68da02d7957bd7db2a2a647f76d50be) (via ak9999 gist github)

@@ -196,6 +196,7 @@ My collection of Bookmarks
 + [N-Able](https://uptime.n-able.com/)
 + [FreshBooks](https://status.freshbooks.com/)
 + [FreshDesk](https://updates.freshdesk.com/)
++ [FreshService](https://updates.freshservice.com/)
 + [Google Workspace](https://www.google.com/appsstatus/dashboard/)
 + [Datto](https://status.datto.com/)
 + [ConnectWise](https://status.connectwise.com/)

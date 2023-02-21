@@ -211,6 +211,8 @@ My collection of Bookmarks
   + For those times where you randomly need flash
 + [MX Toolbox](https://mxtoolbox.com/NetworkTools.aspx) (via MX Toolbox)
   + Email, Network, Website and DNS tools
++ [Mini-Webserver](https://www.aidex.de/software/webserver/) (via aidex.de)
+  + For those times where you just need a quick and dirty webserver
 
 ## Training
 + [PaloAlto Beacon](https://beacon.paloaltonetworks.com/student/catalog) (via PaloAlto)

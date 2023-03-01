@@ -219,7 +219,8 @@ My collection of Bookmarks
 
 ## Info Tools
 + [Cloudflare Domain and IP info](https://radar.cloudflare.com/domain/) (via Cloudflare)
-+ [IP info](https://db-ip.com/) (via dp-ip.com)
++ [DB IP](https://db-ip.com/) (via dp-ip.com)
++ [IP Info](https://ipinfo.io/) (via ipinfo.io)
 + [List of Phishing and Malware reporting links](https://decentsecurity.com/#/malware-web-and-phishing-investigation/) (via DecentSecurity)
 + [URL Checker (urlscan)](https://urlscan.io/) (via urlscan.io)
 + [URL Checker (checkphish)](https://checkphish.ai/) (via checkphish.ai)

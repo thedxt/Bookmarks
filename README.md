@@ -215,6 +215,8 @@ My collection of Bookmarks
   + Email, Network, Website and DNS tools
 + [Mini-Webserver](https://www.aidex.de/software/webserver/) (via aidex.de)
   + For those times where you just need a quick and dirty webserver
++ [Windows Firewall Control](https://www.binisoft.org/wfc) (via binisoft.org)
+  + Adds more features and control to Windows Firewall
 
 ## Training
 + [PaloAlto Beacon](https://beacon.paloaltonetworks.com/student/catalog) (via PaloAlto)
@@ -227,6 +229,7 @@ My collection of Bookmarks
 + [URL Checker (urlscan)](https://urlscan.io/) (via urlscan.io)
 + [URL Checker (checkphish)](https://checkphish.ai/) (via checkphish.ai)
 + [URL Checker (phishcheck)](https://phishcheck.me/) (via phishcheck.me)
++ [URL Checker (Cloudflare Radar)](https://radar.cloudflare.com/scan) (via cloudflare.com)
 + [VirtusTotal](https://www.virustotal.com/) (via VirtusTotal)
 + [Any Run](https://app.any.run/) (via Any.Run)
 + [URL and File Checker](https://www.filescan.io/) (via filescan.io)

@@ -217,6 +217,10 @@ My collection of Bookmarks
   + For those times where you just need a quick and dirty webserver
 + [Windows Firewall Control](https://www.binisoft.org/wfc) (via binisoft.org)
   + Adds more features and control to Windows Firewall
++ [Mouse Jiggler](https://github.com/arkane-systems/mousejiggler) (via arkane-systems/mousejiggler)
+  + For those times where you need to move your mouse
+
+
 
 ## Training
 + [PaloAlto Beacon](https://beacon.paloaltonetworks.com/student/catalog) (via PaloAlto)

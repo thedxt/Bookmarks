@@ -269,6 +269,7 @@ My collection of Bookmarks
 + [Location of log files for VMware products](https://kb.vmware.com/s/article/1021806) (via VMware)
 + [basilisk portable with flash](https://archive.org/download/basilisk-portable-with-flash) (Via Archive.org)
 + [Update Certificates on Horizon](https://docs.vmware.com/en/VMware-Horizon-7/7.13/horizon-administration/GUID-5717A5F9-D2E3-4CB7-A0B8-5BBF8F3CBA92.html) (via VMware)
++ [Lenovo VMware Updates and Custom ISO](https://vmware.lenovo.com/) (via Lenovo)
 
 [VMware Fixes](fixes.md#vmware)
 

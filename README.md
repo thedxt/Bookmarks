@@ -251,6 +251,7 @@ My collection of Bookmarks
 + [VMware Tools all versions](https://packages.vmware.com/tools/esx/) (via VMware)
 + [VMware Tools](https://community.chocolatey.org/packages/vmware-tools#files) (via Chocolatey)
 + [PaperCut MF](https://www.papercut.com/products/mf/upgrade-available/) (via PaperCut)
++ [Snagit](https://www.techsmith.com/download/oldversions) (via TechSmith)
 ### ISO Tools 
 + [Easy2Boot](https://easy2boot.xyz/) (via easy2boot.xyz)
 + [Ventoy](https://www.ventoy.net/en/index.html) (via Ventoy.net)

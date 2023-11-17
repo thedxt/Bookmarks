@@ -19,6 +19,7 @@ My collection of Bookmarks
 + [Change a Users Primary Email Address](http://www.techunboxed.com/2013/05/how-to-change-users-primary-email.html) (via techunboxed.com)
 + [check sharepoint folder for unique permissions](https://www.sharepointdiary.com/2019/06/sharepoint-online-check-if-folder-has-unique-permissions.html) (via sharepointdiary.com)
 + [Microsoft 365 Licensing Cheat Sheet](https://m365maps.com/) (via m365maps.com)
++ [Change the Azure AD UPN Sync](https://evotec.xyz/azure-ad-connect-synchronizing-mail-field-with-userprincipalname-in-azure/) (via evotec.xyz)
 
 [365 Fixes](fixes.md#365)
 

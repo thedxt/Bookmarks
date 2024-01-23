@@ -19,6 +19,7 @@ My collection of fixes
 + [Restore deleted mail items to their original folder](https://o365info.com/restore-deleted-mail-items-to-their-original-folder-using-powershell-introduction-1-3/)
 + [Azure AD connect refuses to Start versions older than 2.1.1.0](https://docs.microsoft.com/en-us/troubleshoot/azure/active-directory/resolve-model-database-corruption-sqllocaldb)
 + ["Access Denied" or "You need permission" errors in SharePoint Online and OneDrive](https://learn.microsoft.com/en-us/sharepoint/troubleshoot/administration/access-denied-or-need-permission-error-sharepoint-online-or-onedrive-for-business)
++ [Outlook Copying meetings is not supported](https://support.microsoft.com/en-us/office/outlook-blocks-copying-meetings-with-copying-meetings-is-not-supported-4baaa023-2199-4833-b7ac-d9f0715d50f1)
 
 [Back to 365 Bookmarks](README.md#365)
 

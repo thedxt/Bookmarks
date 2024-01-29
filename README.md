@@ -220,6 +220,8 @@ My collection of Bookmarks
   + Adds more features and control to Windows Firewall
 + [Mouse Jiggler](https://github.com/arkane-systems/mousejiggler) (via arkane-systems/mousejiggler)
   + For those times where you need to move your mouse
++ [cobalt](https://github.com/wukko/cobalt) (via wukko/cobalt) also [cobalt.tools](https://cobalt.tools/) 
+  + convert web videos to mp3 or mp4 and probably more things
 
 
 

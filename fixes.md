@@ -101,6 +101,7 @@ My collection of fixes
 ### Veeam Backup for Microsoft 365
 + [Failed to backup list User Information List. Unknown Error](https://www.veeam.com/kb4326)
 + [Cannot change WebPart ExportMode to ‘All’. WebPart will be skipped](https://www.veeam.com/kb4091)
++ [Unexpected Language in backup email notification](https://www.veeam.com/kb2692)
 
 [Back to Veeam Bookmarks](README.md#veeam)
 

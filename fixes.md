@@ -148,5 +148,6 @@ My collection of fixes
 + [Convert Windows 10 Evaluation to Full ](https://appsforpcfree.net/upgrade-windows-10-evaluation-full-version-easily/)
 + [cannot shrink a VHDX file because you cannot shrink the volume on the virtual disk](https://blog.workinghardinit.work/2016/08/09/you-cannot-shrink-a-vhdx-file-because-you-cannot-shrink-the-volume-on-the-virtual-disk/)
 + [PrintNightmare & Point and Print tweaks](https://anthonyfontanez.com/index.php/2021/08/12/printnightmare-point-and-print/)
++ [Windows Updates Manual Reset](https://learn.microsoft.com/en-us/troubleshoot/windows-client/deployment/additional-resources-for-windows-update)
 
 [Back to Windows Bookmarks](README.md#windows)

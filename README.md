@@ -167,6 +167,9 @@ My collection of Bookmarks
 + [PAN-OS Software Release Guidance](https://live.paloaltonetworks.com/t5/customer-resources/support-pan-os-software-release-guidance/ta-p/258304) (via PaloAlto - behind a login wall)
 + [PaperCut MF](https://www.papercut.com/products/mf/release-history/) (via PaperCut)
 
+## Removals
++ [Foxit Removal](https://kb.foxit.com/hc/en-us/articles/14238322642196-Clean-Uninstallation-of-Foxit-PDF-Editor-Reader-for-Windows) (via Foxit)
+
 ## RMM Agent Removal
 + [LabTech Removal](https://gist.github.com/ak9999/e68da02d7957bd7db2a2a647f76d50be) (via ak9999 gist github)
 

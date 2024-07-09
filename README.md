@@ -132,6 +132,9 @@ My collection of Bookmarks
 + [CIDR Calculator](https://account.arin.net/public/cidrCalculator) (via arin.net)
 + [Subnet Caclulator](https://www.calculator.net/ip-subnet-calculator.html) (via calculator.net)
 
+## Omnissa
++ [Update Certificates on Horizon Connection Server](https://docs.omnissa.com/bundle/Horizon8InstallUpgrade/page/UpdatetheCertificatesonaConnectionServerInstance.html) (via Omnissa)
+
 ## PaloAlto
 + [URL Filtering Test Pages](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClaDCAS) (via PaloAlto)
 + [List of URL Filtering Categories](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000Cm5hCAC) (via PaloAlto)
@@ -144,18 +147,20 @@ My collection of Bookmarks
 + [HP Fax Test Service (can be used to test fax sending and fax reciving)](https://support.hp.com/us-en/document/ish_2385619-2276753-16) (via HP)
 
 ## Releases
-+ [Microsoft 365 roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&searchterms=66584) (via Microsoft)
++ [Microsoft 365 roadmap](https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=) (via Microsoft)
 + [Windows Server release information](https://docs.microsoft.com/en-us/windows/release-health/windows-server-release-info) (via Microsoft)
 + [Windows 10 release information](https://docs.microsoft.com/en-us/windows/release-health/release-information) (via Microsoft)
++ [Windows 11 release information](https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information) (via Microsoft)
 + [Windows 10 Home and Pro](https://docs.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro) (via Microsoft)
++ [Windows 11 Home and Pro](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro) (via Microsoft)
 + [Microsoft 365 Apps](https://docs.microsoft.com/en-us/officeupdates/update-history-microsoft365-apps-by-date) (via Microsoft)
 + [ODT (Office Deployment Tool)](https://docs.microsoft.com/en-us/officeupdates/odt-release-history) (via Microsoft)
-+ [Azure AD Connect](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-version-history) (via Microsoft)
-+ [Azure AD Pass-through Authentication agent](https://learn.microsoft.com/en-us/azure/active-directory/hybrid/reference-connect-pta-version-history) (via Microsoft)
++ [Microsoft Entra Connect (Azure AD Connect)](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/reference-connect-version-history) (via Microsoft)
++ [Microsoft Entra pass-through authentication agent (Azure AD Pass-through Authentication agent)](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/reference-connect-pta-version-history) (via Microsoft)
 + [Windows release health](https://docs.microsoft.com/en-us/windows/release-health/) (via Microsoft)
 + [ADMX (Group Policy Administrative Templates)](https://docs.microsoft.com/en-US/troubleshoot/windows-client/group-policy/create-and-manage-central-store) (via Microsoft)
-+ [VCSA](https://kb.vmware.com/s/article/2143838) (via VMware)
-+ [ESXi](https://kb.vmware.com/s/article/2143832) (via VMware)
++ [VMware vCenter](https://knowledge.broadcom.com/external/article?articleNumber=326316) (via Broadcom)
++ [VMware ESXi](https://knowledge.broadcom.com/external/article?articleNumber=316595) (via Broadcom)
 + [UniFi](https://community.ui.com/releases) (via Ubiquiti)
 + [Veeam Backup & Replication](https://www.veeam.com/kb2680) (via Veeam)
 + [Veeam Backup & Replication Build Release dates with RTM and GA](https://forums.veeam.com/veeam-backup-replication-f2/current-version-t9456.html)
@@ -166,6 +171,10 @@ My collection of Bookmarks
 + [Adobe Acrobat and Adobe Reader Release Notes](https://www.adobe.com/devnet-docs/acrobatetk/tools/ReleaseNotesDC/index.html) (via Adobe)
 + [PAN-OS Software Release Guidance](https://live.paloaltonetworks.com/t5/customer-resources/support-pan-os-software-release-guidance/ta-p/258304) (via PaloAlto - behind a login wall)
 + [PaperCut MF](https://www.papercut.com/products/mf/release-history/) (via PaperCut)
++ [Duo Authentication Proxy](https://duo.com/docs/authproxy-notes) (via Duo)
++ [Duo Authentication for Windows Logon and RDP](https://duo.com/docs/rdp-notes) (via Duo)
++ [Duo Network Gateway](https://duo.com/docs/dng-notes) (via Duo)
++ [DuoConnect Application]([https://duo.com/docs/dng-notes](https://duo.com/docs/duoconnect-notes)) (via Duo)
 
 ## Removals
 + [Foxit Removal](https://kb.foxit.com/hc/en-us/articles/14238322642196-Clean-Uninstallation-of-Foxit-PDF-Editor-Reader-for-Windows) (via Foxit)
@@ -273,9 +282,8 @@ My collection of Bookmarks
 [Veeam Fixes](fixes.md#veeam)
 
 ## VMware
-+ [Location of log files for VMware products](https://kb.vmware.com/s/article/1021806) (via VMware)
++ [Location of log files for VMware products](https://knowledge.broadcom.com/external/article?articleNumber=322834) (via Broadcom)
 + [basilisk portable with flash](https://archive.org/download/basilisk-portable-with-flash) (Via Archive.org)
-+ [Update Certificates on Horizon](https://docs.vmware.com/en/VMware-Horizon-7/7.13/horizon-administration/GUID-5717A5F9-D2E3-4CB7-A0B8-5BBF8F3CBA92.html) (via VMware)
 + [Lenovo VMware Updates and Custom ISO](https://vmware.lenovo.com/) (via Lenovo)
 
 [VMware Fixes](fixes.md#vmware)

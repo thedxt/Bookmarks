@@ -132,6 +132,9 @@ My collection of Bookmarks
 + [CIDR Calculator](https://account.arin.net/public/cidrCalculator) (via arin.net)
 + [Subnet Caclulator](https://www.calculator.net/ip-subnet-calculator.html) (via calculator.net)
 
+## Omnissa
++ [Update Certificates on Horizon Connection Server](https://docs.omnissa.com/bundle/Horizon8InstallUpgrade/page/UpdatetheCertificatesonaConnectionServerInstance.html) (via Omnissa)
+
 ## PaloAlto
 + [URL Filtering Test Pages](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClaDCAS) (via PaloAlto)
 + [List of URL Filtering Categories](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000Cm5hCAC) (via PaloAlto)
@@ -279,9 +282,8 @@ My collection of Bookmarks
 [Veeam Fixes](fixes.md#veeam)
 
 ## VMware
-+ [Location of log files for VMware products](https://kb.vmware.com/s/article/1021806) (via VMware)
++ [Location of log files for VMware products](https://knowledge.broadcom.com/external/article?articleNumber=322834) (via Broadcom)
 + [basilisk portable with flash](https://archive.org/download/basilisk-portable-with-flash) (Via Archive.org)
-+ [Update Certificates on Horizon](https://docs.vmware.com/en/VMware-Horizon-7/7.13/horizon-administration/GUID-5717A5F9-D2E3-4CB7-A0B8-5BBF8F3CBA92.html) (via VMware)
 + [Lenovo VMware Updates and Custom ISO](https://vmware.lenovo.com/) (via Lenovo)
 
 [VMware Fixes](fixes.md#vmware)

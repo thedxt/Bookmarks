@@ -126,11 +126,11 @@ My collection of fixes
 
 ## VMware
 + [install esxi in non UEFI](https://serverfault.com/questions/750051/why-doesnt-the-internal-usb-port-boot-esxi-6-on-my-microserver-gen8)
-+ [Troubleshooting vCenter Appliance /storage/log directory is 80% or more full](https://kb.vmware.com/s/article/83070)
-+ [Enable content Copy/Paste between VMRC client and Windows/Linux Virtual Machine](https://kb.vmware.com/s/article/57122)
-+ [Installing and upgrading the latest version of VMware Tools on existing hosts](https://kb.vmware.com/s/article/2129825)
-+ [Restarting the Management agents in ESXi](https://kb.vmware.com/s/article/1003490)
-+ [virtual machine fails to power on with the error: Unsupported and/or invalid disk type](https://kb.vmware.com/s/article/1028943)
++ [Troubleshooting vCenter Appliance /storage/log directory is 80% or more full](https://knowledge.broadcom.com/external/article?articleNumber=313077)
++ [Enable content Copy/Paste between VMRC client and Windows/Linux Virtual Machine](https://knowledge.broadcom.com/external/article?articleNumber=319537)
++ [Installing and upgrading the latest version of VMware Tools on existing hosts](https://knowledge.broadcom.com/external/article?articleNumber=313876)
++ [Restarting the Management agents in ESXi](https://knowledge.broadcom.com/external/article?articleNumber=320280)
++ [virtual machine fails to power on with the error: Unsupported and/or invalid disk type](https://knowledge.broadcom.com/external/article?articleNumber=310567)
 
 [Back to VMware Bookmarks](README.md#vmware)
 

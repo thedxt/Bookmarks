@@ -254,7 +254,8 @@ My collection of Bookmarks
 + [VirtusTotal](https://www.virustotal.com/) (via VirtusTotal)
 + [Any Run](https://app.any.run/) (via Any.Run)
 + [URL and File Checker](https://www.filescan.io/) (via filescan.io)
-+ [Multi URL Checked](https://cybergordon.com/) (via cybergordon.com)
++ [Multi URL Checker](https://cybergordon.com/) (via cybergordon.com)
++ [HTTP Status and redirect checker](https://httpstatus.io/) (via httpstatus.io)
 + [Akamai What is my IP](http://whatismyip.akamai.com/) (via akamai.com)
 + [Amazon AWS What is my IP](https://checkip.amazonaws.com/) (via amazonaws.com)
 

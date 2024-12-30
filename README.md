@@ -237,6 +237,8 @@ My collection of Bookmarks
   + For those times where you need to move your mouse
 + [cobalt](https://github.com/wukko/cobalt) (via wukko/cobalt) also [cobalt.tools](https://cobalt.tools/) 
   + convert web videos to mp3 or mp4 and probably more things
++ [pestudio](https://www.winitor.com/download) (via winitor.com)
+  + find artifacts in exe files (useful for determining if the exe is possible malware)
 
 
 

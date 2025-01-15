@@ -80,6 +80,11 @@ My collection of Bookmarks
 + [Learn and Test DMARC](https://www.learndmarc.com/) (via LearnDMARC.com)
 + [Message Header Analyzer](https://mha.azurewebsites.net/pages/mha.html) (via github.com/stephenegriffin/mha)
 
+## End User Instructions
++ [OneDrive/SharePoint Sharing files, folders, and list items](https://support.microsoft.com/en-us/office/sharing-files-folders-and-list-items-74cab0bf-39c6-4112-a63f-88ee121722d0) (via support.microsoft.com)
++ [Set up the Outlook app for iOS](https://support.microsoft.com/en-us/office/set-up-the-outlook-app-for-ios-b2de2161-cc1d-49ef-9ef9-81acd1c8e234) (via support.microsoft.com)
++ [Set up email in the Outlook for Android app](https://support.microsoft.com/en-us/office/set-up-email-in-the-outlook-for-android-app-886db551-8dfa-4fd5-b835-f8e532091872) (via support.microsoft.com)
+
 ## Exchange
 + [Decommission Exchange after 365 Migration](https://techpress.net/decommission-exchange-server-after-office-365-migration/) (via techpress.net)
 

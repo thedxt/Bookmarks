@@ -230,7 +230,7 @@ My collection of Bookmarks
 ## Tools
 + [Focus finder](https://www.happydroid.com/focus) (via HappyDroid)
   + For finding what steals window focus in Windows
-+ [Basilisk Portable With Flash Player](https://archive.org/details/basilisk-portable-with-flash) (via archive.org)
++ [Basilisk Portable With Flash Player](https://archive.org/download/basilisk-portable-with-flash_202502) (via archive.org)
   + For those times where you randomly need flash
 + [MX Toolbox](https://mxtoolbox.com/NetworkTools.aspx) (via MX Toolbox)
   + Email, Network, Website and DNS tools

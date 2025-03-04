@@ -244,6 +244,10 @@ My collection of Bookmarks
   + convert web videos to mp3 or mp4 and probably more things
 + [pestudio](https://www.winitor.com/download) (via winitor.com)
   + find artifacts in exe files (useful for determining if the exe is possible malware)
++ [AcroCleaner](https://www.adobe.com/devnet-docs/acrobatetk/tools/Labs/cleaner.html) (via adobe.com)
+  + Adobe Acrobat clean up tool
++ [Adobe Creative Cloud Cleaner tool](https://helpx.adobe.com/creative-cloud/kb/cc-cleaner-tool-installation-problems.html) (via adobe.com)
+  + cleans up broken leftovers from Adobe creative cloud applications.
 
 
 

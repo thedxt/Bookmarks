@@ -187,7 +187,7 @@ My collection of Bookmarks
 + [Duo Authentication Proxy](https://duo.com/docs/authproxy-notes) (via Duo)
 + [Duo Authentication for Windows Logon and RDP](https://duo.com/docs/rdp-notes) (via Duo)
 + [Duo Network Gateway](https://duo.com/docs/dng-notes) (via Duo)
-+ [DuoConnect Application]([https://duo.com/docs/dng-notes](https://duo.com/docs/duoconnect-notes)) (via Duo)
++ [DuoConnect Application](https://duo.com/docs/duoconnect-notes) (via Duo)
 
 ## Removals
 + [Foxit Removal](https://kb.foxit.com/hc/en-us/articles/14238322642196-Clean-Uninstallation-of-Foxit-PDF-Editor-Reader-for-Windows) (via Foxit)

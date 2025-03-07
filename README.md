@@ -191,6 +191,10 @@ My collection of Bookmarks
 
 ## Removals
 + [Foxit Removal](https://kb.foxit.com/hc/en-us/articles/14238322642196-Clean-Uninstallation-of-Foxit-PDF-Editor-Reader-for-Windows) (via Foxit)
++ [AcroCleaner](https://www.adobe.com/devnet-docs/acrobatetk/tools/Labs/cleaner.html) (via adobe.com)
+  + Adobe Acrobat clean up tool
++ [Adobe Creative Cloud Cleaner tool](https://helpx.adobe.com/creative-cloud/kb/cc-cleaner-tool-installation-problems.html) (via adobe.com)
+  + cleans up broken leftovers from Adobe creative cloud applications.
 
 ## RMM Agent Removal
 + [LabTech Removal](https://gist.github.com/ak9999/e68da02d7957bd7db2a2a647f76d50be) (via ak9999 gist github)
@@ -250,10 +254,6 @@ My collection of Bookmarks
   + convert web videos to mp3 or mp4 and probably more things
 + [pestudio](https://www.winitor.com/download) (via winitor.com)
   + find artifacts in exe files (useful for determining if the exe is possible malware)
-+ [AcroCleaner](https://www.adobe.com/devnet-docs/acrobatetk/tools/Labs/cleaner.html) (via adobe.com)
-  + Adobe Acrobat clean up tool
-+ [Adobe Creative Cloud Cleaner tool](https://helpx.adobe.com/creative-cloud/kb/cc-cleaner-tool-installation-problems.html) (via adobe.com)
-  + cleans up broken leftovers from Adobe creative cloud applications.
 + [Xlight FTP Server](https://www.xlightftpd.com/) (via xlightftpd.com)
   + Portable Windows FTP server
 + [HFS HTTP File Server](https://rejetto.com/hfs/) (via rejetto.com)

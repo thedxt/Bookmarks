@@ -149,6 +149,12 @@ My collection of Bookmarks
 + [PaloAlto Best Practices](https://docs.paloaltonetworks.com/best-practices) (via PaloAlto)
 + [PaloAlto Firewall Region Code Legend](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClFFCA0) (via PaloAlto)
 
+## Passwords
++ [Funny Password Generator](https://www.terrific.tools/online/funny-password-generator) (via terrific.tools)
++ [DinoPass](https://www.dinopass.com/) (via dinopass.com)
++ [Password Pusher](https://pwpush.com/) (via pwpush.com)
++ [Onetime Secret](https://onetimesecret.com/) (via onetimesecret.com)
+
 ## Printers
 + [Canon Remote Operator's Software Kit (useful to document how to use the printer for end users)](https://www.usa.canon.com/internet/portal/us/home/support/details/software/accessibility/remote-operators-software-kit?subtab=downloads-software) (via Canon)
 + [HP Fax Test Service (can be used to test fax sending and fax reciving)](https://support.hp.com/us-en/document/ish_2385619-2276753-16) (via HP)
@@ -248,6 +254,12 @@ My collection of Bookmarks
   + Adobe Acrobat clean up tool
 + [Adobe Creative Cloud Cleaner tool](https://helpx.adobe.com/creative-cloud/kb/cc-cleaner-tool-installation-problems.html) (via adobe.com)
   + cleans up broken leftovers from Adobe creative cloud applications.
++ [Xlight FTP Server](https://www.xlightftpd.com/) (via xlightftpd.com)
+  + Portable Windows FTP server
++ [HFS HTTP File Server](https://rejetto.com/hfs/) (via rejetto.com)
+  + quick windows http server
+ + [Tftpd64l](https://pjo2.github.io/tftpd64/) (via pjo2.github.io/tftpd64/)
+  + Simple TFTP server
 
 
 

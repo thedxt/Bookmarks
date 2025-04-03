@@ -32,7 +32,7 @@ My collection of Bookmarks
 + [List of anti-malware product removal tools](https://answers.microsoft.com/en-us/protect/forum/protect_other-protect_start-windows_other/list-of-anti-malware-product-removal-tools/2bcb53f7-7ab4-4ef9-ab3a-6aebfa322f75) (via MS Answers)
 + [Symantec Endpoint Protection (CleanWipe)](https://knowledge.broadcom.com/external/article/178870/download-the-cleanwipe-removal-tool-to-u.html) (via Broadcom)
 + [Anti-virus Uninstall Scripts](http://getalphacontrol.com/Avira/UninstallScripts/index.php) (via Atera (Alpha Control))
-+ [uninstall Cortex XDR agent gracefully using a non interactive command](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA14u000000HCcNCAW) (via PaloAlto)
++ [uninstall Cortex XDR agent gracefully using a non interactive command](https://knowledgebase.altonetworks.com/KCSArticleDetail?id=kA14u000000HCcNCAW) (via Alto)
 + [Bitdefender uninstall tool](https://www.bitdefender.com/business/support/en/77209-80124-remove-bitdefender-endpoint-security-tools-using-the-uninstall-tool.html) (via bitdefender)
 + [AV Defender removal tool](https://success.n-able.com/kb/solarwinds_n-central/Where-to-download-the-latest-AV-Defender-removal-tool)
 + [Sophos Endpoint Removal with Tamper Protection](https://support.sophos.com/support/s/article/KB-000036125?language=en_US) (via Sophos)
@@ -148,6 +148,7 @@ My collection of Bookmarks
 + [Applipedia for App-ID](https://applipedia.paloaltonetworks.com/) (via PaloAlto)
 + [PaloAlto Best Practices](https://docs.paloaltonetworks.com/best-practices) (via PaloAlto)
 + [PaloAlto Firewall Region Code Legend](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClFFCA0) (via PaloAlto)
++ [PaloAlto Test A Site](https://urlfiltering.paloaltonetworks.com/) (via PaloAlto)
 
 ## Passwords
 + [Funny Password Generator](https://www.terrific.tools/online/funny-password-generator) (via terrific.tools)

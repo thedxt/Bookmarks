@@ -141,6 +141,11 @@ My collection of Bookmarks
 ## Omnissa
 + [Update Certificates on Horizon Connection Server](https://docs.omnissa.com/bundle/Horizon8InstallUpgrade/page/UpdatetheCertificatesonaConnectionServerInstance.html) (via Omnissa)
 
+## OSINT
++ [Canadian Phone Number Lookup](https://cnac.ca/co_codes/co_code_lookup.htm) (via cnac.ca)
++ [Azure AD/Entra/Microsoft/Office/365 Tenant Info](https://aadinternals.com/osint/) (via aadinternals.com)
+
+
 ## PaloAlto
 + [URL Filtering Test Pages](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000ClaDCAS) (via PaloAlto)
 + [List of URL Filtering Categories](https://knowledgebase.paloaltonetworks.com/KCSArticleDetail?id=kA10g000000Cm5hCAC) (via PaloAlto)

@@ -288,6 +288,7 @@ My collection of Bookmarks
 + [HTTP Status and redirect checker](https://httpstatus.io/) (via httpstatus.io)
 + [Akamai What is my IP](http://whatismyip.akamai.com/) (via akamai.com)
 + [Amazon AWS What is my IP](https://checkip.amazonaws.com/) (via amazonaws.com)
++ [Amazon AWS What is my IP API](https://checkip.global.api.aws/) (via api.aws)
 
 ## Installer Tweaking
 + [InnoExtractor](http://www.havysoft.cl/innoextractor.html) (via havysoft.cl)

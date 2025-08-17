@@ -8,8 +8,7 @@ My collection of Bookmarks
 + [Disable versioning in a document library](https://www.spguides.com/sharepoint-online-powershell-disable-versioning/) (via SPGuides)
 + [Office 365 updates stop working when workloads are switched to Intune](https://byteben.com/bb/office-365-updates-stop-working-when-workloads-are-switched-to-intune/) (via byteben)
 + [Access Another OneDrive](https://sharepointmaven.com/how-to-access-someone-elses-onedrive-account/) (via SharePoint Maven)
-+ [Using ODT (Office Deployment Tool) and tweaks](https://www.slashadmin.co.uk/how-to-deploy-office-365-applications-from-a-server-share/) (via SlashAdmin)
-+ [Azure AD Connect Swing Migration](https://docs.microsoft.com/en-us/azure/active-directory/hybrid/how-to-upgrade-previous-version#swing-migration) (via Microsoft)
++ [Azure AD Connect / Entra Connect Swing Migration](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/how-to-upgrade-previous-version#swing-migration) (via Microsoft)
 + [Migrating Azure AD Connect to a New Server](https://practical365.com/migrating-azure-ad-connect-new-server/) (via Practical 365)
 + [Delete an email from all mailboxes](https://geekshangout.com/office-365-deleting-email-mailboxes-using-content-search-feature/) (via Geeks Hangout)
 + [Export Office 365 mailboxes to PST using eDiscovery](https://www.codetwo.com/admins-blog/how-to-export-office-365-mailboxes-to-pst-using-ediscovery/) (via codetwo)
@@ -26,16 +25,13 @@ My collection of Bookmarks
 
 ## AV Removals
 + [PowerShell script to forcefully remove Webroot SecureAnywhere. It is recommended to run the script twice, with a reboot after the first run.](https://gist.github.com/mark05e/708123de4c095ffb4f735c131d8cc783) (via mark05e gist github)
-+ [Uninstall the Traps Agent for Windows](https://docs.paloaltonetworks.com/cortex/cortex-xdr/6-1/cortex-xdr-agent-admin/traps-agent-for-windows/uninstall-the-traps-agent-for-windows) (via PaloAlto)
++ [Uninstall Palo Alto Cortex Agent for Windows](https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR/8.9/Cortex-XDR-Agent-Administrator-Guide/Use-Cortex-XDR-Agent-for-Windows) (via PaloAlto)
 + [Uninstall tamper-protected Sophos Antivirus with PowerShell](https://4sysops.com/archives/uninstall-tamper-protected-sophos-antivirus-with-powershell/) (via 4sysops)
 + [WRUpgradeTool.exe](http://download.webroot.com/WRUpgradeTool.exe) (via Webroot) - Might not work anymore super old
-+ [List of anti-malware product removal tools](https://answers.microsoft.com/en-us/protect/forum/protect_other-protect_start-windows_other/list-of-anti-malware-product-removal-tools/2bcb53f7-7ab4-4ef9-ab3a-6aebfa322f75) (via MS Answers)
-+ [Symantec Endpoint Protection (CleanWipe)](https://knowledge.broadcom.com/external/article/178870/download-the-cleanwipe-removal-tool-to-u.html) (via Broadcom)
-+ [Anti-virus Uninstall Scripts](http://getalphacontrol.com/Avira/UninstallScripts/index.php) (via Atera (Alpha Control))
-+ [uninstall Cortex XDR agent gracefully using a non interactive command](https://knowledgebase.altonetworks.com/KCSArticleDetail?id=kA14u000000HCcNCAW) (via Alto)
++ [List of anti-malware product removal tools](https://support.microsoft.com/en-us/topic/list-of-security-program-cleanup-and-uninstall-tools-751fd6cc-a39f-dc66-ef44-61a7de91b7dc) (via Microsoft)
++ [Symantec Endpoint Protection (CleanWipe)](https://knowledge.broadcom.com/external/article?articleNumber=178870) (via Broadcom)
 + [Bitdefender uninstall tool](https://www.bitdefender.com/business/support/en/77209-80124-remove-bitdefender-endpoint-security-tools-using-the-uninstall-tool.html) (via bitdefender)
-+ [AV Defender removal tool](https://success.n-able.com/kb/solarwinds_n-central/Where-to-download-the-latest-AV-Defender-removal-tool)
-+ [Sophos Endpoint Removal with Tamper Protection](https://support.sophos.com/support/s/article/KB-000036125?language=en_US) (via Sophos)
++ [Sophos Endpoint Removal with Tamper Protection](https://support.sophos.com/support/s/article/KBA-000004158?language=en_US) (via Sophos)
 
 ## Bios
 + [Lenovo BIOS Simulator](https://download.lenovo.com/bsco/index.html) (via Lenovo)
@@ -45,8 +41,9 @@ My collection of Bookmarks
 
 ## Compatibility Matrix
 + [Cisco UCS Hardware and Software](https://ucshcltool.cloudapps.cisco.com/public/) (via Cisco)
-+ [VMware Compatibility Guide](https://www.vmware.com/resources/compatibility/search.php) (via VMware)
-+ [VMware Interoperability Matrix](https://interopmatrix.vmware.com/Interoperability) (via VMware)
++ [Broadcom Compatibility Guide](https://compatibilityguide.broadcom.com/) (via Broadcom)
++ [Broadcom Interoperability Matrix](https://interopmatrix.broadcom.com/Interoperability) (via Broadcom)
++ [Omnissa Interoperability Matrix](https://interopmatrix.omnissa.com/Interoperability) (via Omnissa)
 
 ## DB
 + [Rest lost SQL Express SA Password](https://www.vladan.fr/how-to-reset-lost-sa-password-in-sql-express/) (via vladan.fr)
@@ -58,11 +55,11 @@ My collection of Bookmarks
 ## DC
 + [Retiring SBS 2011, AD migration & Exchange Uninstall](https://community.spiceworks.com/topic/2178848-retiring-sbs-2011-ad-migration-exchange-uninstall) (via Spiceworks)
 + [Changing the Default Users and Computers Containers in AD](https://blog.expta.com/2009/03/changing-default-users-and-computers.html) (via expta)
-+ [FSR to DFSR](https://www.rebeladmin.com/2015/04/step-by-step-guide-for-upgrading-sysvol-replication-to-dfsr-distributed-file-system-replication/) (via Rebel Admin)
++ [FSR to DFSR](https://www.rebeladmin.com/step-by-step-guide-for-upgrading-sysvol-replication-to-dfsr-distributed-file-system-replication/) (via Rebel Admin)
 + [Transfer FSMO roles](https://www.dtonias.com/transfer-fsmo-roles-domain-controller/) (via dtonias)
 + [Migrate DHCP](https://brycematheson.io/how-to-migrate-dhcp-from-windows-server-2008-to-2012-2016/) (via brycematheson.io)
 + [SYSVOL DFSR migration fails after you in-place upgrade a domain controller to Windows Server 2019](https://docs.microsoft.com/en-US/troubleshoot/windows-server/networking/sysvol-dfsr-migration-fails-after-in-place-upgrade) (via Microsoft)
-+ [Group Policy Administrative Templates Catalog](https://admx.help/) (via admx.help)
++ [Group Policy Administrative Templates Catalog](https://admx.help/) (via admx.help) (currently down)
 + [Active Directory Recycle Bin](https://www.terminalworks.com/blog/post/2016/07/31/active-directory-recycle-bin-windows-server-2012-r2) (via Terminal Works)
 + [Group Policy Search](https://gpsearch.azurewebsites.net/) (via gpsearch)
 
@@ -74,7 +71,6 @@ My collection of Bookmarks
 + [various DNS info](https://viewdns.info/) (via ViewDNS.info)
 + [SPF/DKIM/DMARC/DomainKey/RBL Tester](https://www.appmaildev.com/) (via AppMailDev)
 + [Barracuda Reputation check](https://barracudacentral.org/lookups) (via Barracuda)
-+ [Historical DNS Data](https://securitytrails.com/domain/github.com/history/a) (via SecurityTrails.com)
 
 ## Email
 + [Learn and Test DMARC](https://www.learndmarc.com/) (via LearnDMARC.com)
@@ -110,7 +106,6 @@ My collection of Bookmarks
 + [Feodo Tracker Blocklist list](https://feodotracker.abuse.ch/blocklist/) (via abuse.ch)
 + [URLhaus Database](https://urlhaus.abuse.ch/browse/) (via abuse.ch)
 + [Proofpoint Emerging Threats list](https://rules.emergingthreats.net/blockrules/) (via Proofpoint)
-+ [Talos Cisco Talos Threat Intelligence Blacklist](https://talosintelligence.com/documents/ip-blacklist) (via Spamhaus)
 + [Webex IPs and URLs](https://help.webex.com/en-us/article/WBX264/How-Do-I-Allow-Webex-Meetings-Traffic-on-My-Network?) (via Webex)
 + [Zoom IPs and URLs](https://support.zoom.us/hc/en-us/articles/201362683-Network-firewall-or-proxy-server-settings-for-Zoom) (via Zoom)
 + [Google updates URLs](https://support.google.com/chrome/a/answer/6350036#zippy=%2Cwhat-urls-are-used-for-chrome-browser-updates) (via Google)
@@ -129,7 +124,6 @@ My collection of Bookmarks
 + [G Suite (IMAP) to Microsoft 365 Migration Guide](https://help.bittitan.com/hc/en-us/articles/115008106027) (via BitTitan)
 + [Mover Migration Plan](https://docs.microsoft.com/en-us/sharepointmigration/mover-plan-migration) (via Microsoft)
 + [MS Tenant to Tenant](https://docs.microsoft.com/en-us/microsoft-365/enterprise/microsoft-365-tenant-to-tenant-migrations?view=o365-worldwide) (via Microsoft)
-+ [Mover.io](https://mover.io/) (via Mover)
 + [GoDaddy 365 to Real Office 365](https://www.bemopro.com/cybersecurity-blog/how-to-migrate-from-godaddy-to-office-365) (via bemo)
 
 ## Networking
@@ -162,7 +156,7 @@ My collection of Bookmarks
 + [Onetime Secret](https://onetimesecret.com/) (via onetimesecret.com)
 
 ## Printers
-+ [Canon Remote Operator's Software Kit (useful to document how to use the printer for end users)](https://www.usa.canon.com/internet/portal/us/home/support/details/software/accessibility/remote-operators-software-kit?subtab=downloads-software) (via Canon)
++ [Canon Remote Operator's Software Kit (useful to document how to use the printer for end users)](https://www.usa.canon.com/support/p/remote-operator-s-software-kit) (via Canon)
 + [HP Fax Test Service (can be used to test fax sending and fax reciving)](https://support.hp.com/us-en/document/ish_2385619-2276753-16) (via HP)
 
 ## Releases
@@ -244,8 +238,6 @@ My collection of Bookmarks
 
 
 ## Tools
-+ [Focus finder](https://www.happydroid.com/focus) (via HappyDroid)
-  + For finding what steals window focus in Windows
 + [Basilisk Portable With Flash Player](https://archive.org/download/basilisk-portable-with-flash_202502) (via archive.org)
   + For those times where you randomly need flash
 + [MX Toolbox](https://mxtoolbox.com/NetworkTools.aspx) (via MX Toolbox)
@@ -279,7 +271,6 @@ My collection of Bookmarks
 + [List of Phishing and Malware reporting links](https://decentsecurity.com/#/malware-web-and-phishing-investigation/) (via DecentSecurity)
 + [URL Checker (urlscan)](https://urlscan.io/) (via urlscan.io)
 + [URL Checker (checkphish)](https://checkphish.ai/) (via checkphish.ai)
-+ [URL Checker (phishcheck)](https://phishcheck.me/) (via phishcheck.me)
 + [URL Checker (Cloudflare Radar)](https://radar.cloudflare.com/scan) (via cloudflare.com)
 + [VirtusTotal](https://www.virustotal.com/) (via VirtusTotal)
 + [Any Run](https://app.any.run/) (via Any.Run)
@@ -298,7 +289,6 @@ My collection of Bookmarks
 + [Windows, Office, various MS Products](https://tb.rg-adguard.net/public.php) (via TechBench by WZT)
 + [Veeam Backup and Replication](https://chocolatey.org/packages/veeam-backup-and-replication-iso) (via Chocolatey)
 + [Veeam Backup Microsoft 365](https://community.chocolatey.org/packages/veeam-backup-for-microsoft-365-iso/) (via Chocolatey)
-+ [VMware Tools all versions](https://packages.vmware.com/tools/esx/) (via VMware)
 + [VMware Tools](https://community.chocolatey.org/packages/vmware-tools#files) (via Chocolatey)
 + [PaperCut MF](https://www.papercut.com/products/mf/upgrade-available/) (via PaperCut)
 + [Snagit](https://www.techsmith.com/download/oldversions) (via TechSmith)
@@ -318,7 +308,6 @@ My collection of Bookmarks
 
 ## VMware
 + [Location of log files for VMware products](https://knowledge.broadcom.com/external/article?articleNumber=322834) (via Broadcom)
-+ [basilisk portable with flash](https://archive.org/download/basilisk-portable-with-flash) (Via Archive.org)
 + [Lenovo VMware Updates and Custom ISO](https://vmware.lenovo.com/) (via Lenovo)
 
 [VMware Fixes](fixes.md#vmware)
@@ -333,10 +322,7 @@ My collection of Bookmarks
 + [Cisco](https://cway.cisco.com/sncheck/) (Login Wall) (via Cisco)
 
 ## Windows
-+ [HP Windows Embedded Thin Client PDF](http://install.spotpos.com/ThinClient/HP%20Thin%20Client%20Install.pdf) (via spotpos.com)
 + [Multiple RDP sessions in Windows 10](https://www.mysysadmintips.com/windows/clients/545-multiple-rdp-remote-desktop-sessions-in-windows-10) (via mysysadmintips.com)
-+ [Set environment variables in Windows for Java](https://www.itcsolutions.eu/2010/11/29/set-environment-variables-in-windows-7-for-java/) (via itcsolutions.eu)
-+ [Concurrent RDP Patcher Windows 7](https://www.raymond.cc/blog/enable-remote-desktop-connection-in-windows-7-home-premium/) (via raymond.cc)
 + [Remove ScrewDrivers](https://tricerat.atlassian.net/wiki/spaces/TKB/pages/53837834/Upgrading+to+ScrewDrivers+v6) (via tricerat.atlassian.net)
 + [Silent Install ScrewDrivers](https://tricerat.atlassian.net/wiki/spaces/TKB/pages/347242517/Silent+Install+Switches+v6.6.0+-+v6.6.1) (via tricerat.atlassian.net)
 + [Generic Windows Keys](https://learn.microsoft.com/en-us/windows-server/get-started/kms-client-activation-keys) (via Microsoft)

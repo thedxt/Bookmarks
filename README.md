@@ -235,6 +235,7 @@ My collection of Bookmarks
 + [Datto](https://status.datto.com/)
 + [ConnectWise](https://status.connectwise.com/)
 + [GitHub](https://www.githubstatus.com/)
++ [Kaseya](https://status.kaseya.com/)
 
 
 ## Tools

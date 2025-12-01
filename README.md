@@ -62,6 +62,7 @@ My collection of Bookmarks
 + [Group Policy Administrative Templates Catalog](https://admx.help/) (via admx.help) (currently down)
 + [Active Directory Recycle Bin](https://www.terminalworks.com/blog/post/2016/07/31/active-directory-recycle-bin-windows-server-2012-r2) (via Terminal Works)
 + [Group Policy Search](https://gpsearch.azurewebsites.net/) (via gpsearch)
++ [Google Chrome ADMX settings](https://chromeenterprise.google/intl/en_ca/policies/) (via Google)
 
 [DC Fixes](fixes.md#dc)
 
@@ -80,6 +81,8 @@ My collection of Bookmarks
 + [OneDrive/SharePoint Sharing files, folders, and list items](https://support.microsoft.com/en-us/office/sharing-files-folders-and-list-items-74cab0bf-39c6-4112-a63f-88ee121722d0) (via support.microsoft.com)
 + [Set up the Outlook app for iOS](https://support.microsoft.com/en-us/office/set-up-the-outlook-app-for-ios-b2de2161-cc1d-49ef-9ef9-81acd1c8e234) (via support.microsoft.com)
 + [Set up email in the Outlook for Android app](https://support.microsoft.com/en-us/office/set-up-email-in-the-outlook-for-android-app-886db551-8dfa-4fd5-b835-f8e532091872) (via support.microsoft.com)
++ [IE to Edge End User info](https://microsoftedgewelcome.microsoft.com/en-us/mb03?source=mb03&form=MA13E6) (via Microsoft)
++ [Edge End User info](https://microsoftedgewelcome.microsoft.com/) (via Microsoft)
 
 ## Exchange
 + [Decommission Exchange after 365 Migration](https://techpress.net/decommission-exchange-server-after-office-365-migration/) (via techpress.net)
@@ -93,7 +96,7 @@ My collection of Bookmarks
 
 ## Lists (IPs and URLs)
 
-+ [Office/Microsoft 365 IPs and URL](https://docs.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide#related-topics) (via Microsoft)
++ [Office/Microsoft 365 IPs and URL](https://docs.microsoft.com/en-us/microsoft-365/enterprise/urls-and-ip-address-ranges?view=o365-worldwide) (via Microsoft)
 + [Office/Microsoft 365 IPs and URL](https://docs.paloaltonetworks.com/resources/edl-hosting-service) (via PaloAlto)
 + [DocuSing IPs and URLs](https://www.docusign.com/trust/security/esignature) (via DocuSign)
 + [CloudFlare IPs](https://www.cloudflare.com/ips/) (via CloudFlare)
@@ -112,10 +115,9 @@ My collection of Bookmarks
 
 ## Microsoft
 + [Product and Services Lifecycle](https://docs.microsoft.com/en-us/lifecycle/products/) (via Microsoft)
-+ [IE to Edge End User info](https://microsoftedgewelcome.microsoft.com/en-us/mb03?source=mb03&form=MA13E6) (via Microsoft)
-+ [Edge End User info](https://microsoftedgewelcome.microsoft.com/) (via Microsoft)
 + [Various MS Portals](https://msportals.io/) (via msportals.io)
 + [Various MS Portals and commands](https://cmd.ms/) (via cmd.ms)
++ [Product Terms](https://www.microsoft.com/licensing/terms) (via Microsoft)
 
 ## Migration
 + [Exchange 2007+ (Hosted and On-Premises) to Microsoft 365 Migration Guide](https://help.bittitan.com/hc/en-us/articles/115008266088) (via BitTitan)
@@ -128,12 +130,12 @@ My collection of Bookmarks
 
 ## Networking
 + [Subnet Mask Cheat Sheet](https://www.aelius.com/njh/subnet_sheet.html) (via aelius.com)
-+ [Online IP Subnet Calculator](https://www.subnet-calculator.com/) (via subnet-calculator.com)
 + [CIDR Calculator](https://account.arin.net/public/cidrCalculator) (via arin.net)
 + [Subnet Caclulator](https://www.calculator.net/ip-subnet-calculator.html) (via calculator.net)
 
 ## Omnissa
 + [Update Certificates on Horizon Connection Server](https://docs.omnissa.com/bundle/Horizon8InstallUpgrade/page/UpdatetheCertificatesonaConnectionServerInstance.html) (via Omnissa)
++ [Omnissa Release Notes Comparison Tool](https://omnissa-compare.lovable.app/)
 
 ## OSINT
 + [Canadian Phone Number Lookup](https://cnac.ca/co_codes/co_code_lookup.htm) (via cnac.ca)
@@ -221,11 +223,9 @@ My collection of Bookmarks
 + [Duo](https://status.duo.com/)
 + [BitTitan](https://status.bittitan.com/)
 + [Enverus (OpenInvoice)](https://status.ba.enverus.com/)
-+ [IT Glue](https://status.itglue.com/)
 + [Barracuda](https://status.barracuda.com/)
 + [Atera](https://status.atera.com/)
 + [GoTo Connect](https://status.gotoconnect.com/)
-+ [Jive](https://status.jivesoftware.com/)
 + [AWS](https://health.aws.amazon.com/health/status)
 + [N-Able](https://uptime.n-able.com/)
 + [FreshBooks](https://status.freshbooks.com/)
@@ -236,6 +236,10 @@ My collection of Bookmarks
 + [ConnectWise](https://status.connectwise.com/)
 + [GitHub](https://www.githubstatus.com/)
 + [Kaseya](https://status.kaseya.com/)
++ [Veeam Data Cloud](https://vdcstatus.veeam.com/)
++ [QHR Technologies](https://status.qhrtech.com/)
++ [Workspace ONE](https://status.workspaceone.com/)
++ [NinjaOne](https://status.ninjaone.com/)
 
 
 ## Tools
@@ -266,7 +270,7 @@ My collection of Bookmarks
 + [PaloAlto Beacon](https://beacon.paloaltonetworks.com/student/catalog) (via PaloAlto)
 
 ## Info Tools
-+ [Cloudflare Domain and IP info](https://radar.cloudflare.com/domain/) (via Cloudflare)
++ [Cloudflare Domain and IP info](https://radar.cloudflare.com/) (via Cloudflare)
 + [DB IP](https://db-ip.com/) (via dp-ip.com)
 + [IP Info](https://ipinfo.io/) (via ipinfo.io)
 + [List of Phishing and Malware reporting links](https://decentsecurity.com/#/malware-web-and-phishing-investigation/) (via DecentSecurity)
@@ -289,22 +293,25 @@ My collection of Bookmarks
 
 ## ISOs / Installers
 + [Windows, Office, various MS Products](https://tb.rg-adguard.net/public.php) (via TechBench by WZT)
-+ [Veeam Backup and Replication](https://chocolatey.org/packages/veeam-backup-and-replication-iso) (via Chocolatey)
 + [Veeam Backup Microsoft 365](https://community.chocolatey.org/packages/veeam-backup-for-microsoft-365-iso/) (via Chocolatey)
 + [VMware Tools](https://community.chocolatey.org/packages/vmware-tools#files) (via Chocolatey)
++ [VMware Tools](https://packages-prod.broadcom.com/tools/releases/) (via Broadcom)
 + [PaperCut MF](https://www.papercut.com/products/mf/upgrade-available/) (via PaperCut)
 + [Snagit](https://www.techsmith.com/download/oldversions) (via TechSmith)
+
 ### ISO Tools 
 + [Easy2Boot](https://easy2boot.xyz/) (via easy2boot.xyz)
 + [Ventoy](https://www.ventoy.net/en/index.html) (via Ventoy.net)
 + [WinSetupFromUSB](http://www.winsetupfromusb.com/downloads/) (via winsetupfromusb.com)
++ [Rufus](https://rufus.ie/en/) (via rufus.ie)
++ [balenaEtcher](https://etcher.balena.io/) (via balena.io)
 
 ## Veeam
 + [Veeam Best Practices and Architecture](https://www.veeambp.com/) (via veeambp)
 + [Veeam Service Provider Best Practices](https://bp.veeam.com/sp/) (via Veeam)
 + [Veeam Backup & Replication Best Practices](https://bp.veeam.com/vbr) (via Veeam)
 + [Veeam Backup for Microsoft 365 Best Practices](https://bp.veeam.com/vbo/) (via Veeam)
-+ [Required Permissions for VMware vSphere](https://helpcenter.veeam.com/docs/backup/permissions/installation.html?ver=110) (via Veeam)
++ [Required Permissions for VMware vSphere](https://helpcenter.veeam.com/docs/vbr/permissions/installation.html) (via Veeam)
 
 [Veeam Fixes](fixes.md#veeam)
 
@@ -317,7 +324,7 @@ My collection of Bookmarks
 ## Warranty Checking
 + [Dell](https://www.dell.com/support/home/ca/en/cabsdt1?app=warranty&~ck=mn) (via Dell)
 + [HP](https://support.hp.com/us-en/checkwarranty) (via HP)
-+ [HPE](https://support.hpe.com/hpsc/wc/public/home) (via HPE)
++ [HPE](https://support.hpe.com/connect/s/warrantycheck) (Login Wall) (via HPE)
 + [Lenovo](https://pcsupport.lenovo.com/ca/en/warrantylookup) (via Lenovo)
 + [MS Surface](https://mybusinessservice.surface.com/en-US/CheckWarranty/CheckWarranty) (via Microsoft)
 + [Western Digital](https://support-en.wd.com/app/warrantystatus) (via Western Digital)

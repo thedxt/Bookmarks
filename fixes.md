@@ -6,7 +6,6 @@ My collection of fixes
 + [Unlink On-Premises AD Accounts with Azure AD Matches](https://www.orbid365.be/unlink-on-premises-ad-account-with-azure-ad-match/)
 + [Exchange Online: Apple Internet Accounts - Need admin approval](https://diecknet.de/en/2020/05/10/Apple-Internet-Accounts-Office365/)
 + [hide users from the GAL in Office 365 synchronized from on-premises](https://jackstromberg.com/2018/08/how-to-hide-users-from-the-gal-in-office-365-synchronized-from-on-premises/)
-+ [Hard Match a user](https://messageops.com/step-by-step-guide-to-hard-match-a-user-on-office-365-or-azure-ad/)
 + [This user’s on-premises mailbox hasn’t been migrated to Exchange Online](https://itpro-tips.com/2019/this-users-on-premises-mailbox-hasnt-been-migrated-to-exchange-online/)
 + [msExchMailboxGuid Migration Fix](https://www.codetwo.com/kb/msexchmailboxguid-problems/)
 + [Enable the Report Message or the Report Phishing add-ins](https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/enable-the-report-message-add-in?view=o365-worldwide)
@@ -27,15 +26,12 @@ My collection of fixes
 + [Delete Bucket with CLI](https://www.reddit.com/r/backblaze/comments/owrvtw/comment/hcpy9hr/?utm_source=share&utm_medium=web2x&context=3)
 
 ## Cisco
-+ [Completely Clearing a Cisco Switch](https://www.interfacett.com/blogs/completely-clearing-a-cisco-switch-the-easy-way)
 + [no Global Mode (config mode) on Cisco Aironet](https://community.spiceworks.com/topic/458581-seemingly-no-global-mode-config-mode-on-cisco-aironet-1532i)
 + [Converting Cisco Wireless Access Point from Lightweight Mode to Autonomous Mode and Vice Versa](https://www.speaknetworks.com/converting-cisco-wireless-access-point-lightweight-mode-autonomous-mode-vice-versa/)
 
 ## DB
 + [Recover a lost SA password](https://www.sqlshack.com/recover-lost-sa-password/)
 + [Upgrade MS SQL Reporting Services to 2017](https://blog.pythian.com/upgrade-sql-server-reporting-services-to-2017/)
-+ [Creating A New Database From A Backup Of Another Database On The Same Server](https://jackworthen.com/2017/10/25/creating-a-new-database-from-a-backup-of-another-database-on-the-same-server/)
-+ [SQL Server Kill All Connections](https://www.sqlserver.info/maintenance/sql-server-kill-all-connections/)
 
 [Back to DB Bookmarks](README.md#db)
 
@@ -61,7 +57,6 @@ My collection of fixes
 
 ## Forti
 + [DNS resolution over IPsec/VPN](https://community.fortinet.com/t5/FortiGate/Technical-Tip-DNS-resolution-over-IPsec-SSL-VPN/ta-p/191850) and [this link too](https://community.fortinet.com/t5/FortiGate/Technical-Tip-How-to-set-DNS-suffix-for-VPN-SSL-and-IPsec-in-the/ta-p/194750)
-+ [Azure SAML authentification for FortiGate SSL VPN (with Azure MFA)](http://yura.stryi.com/en/2021-03-05/fortigate-ssl-vpn-azure-mfa/)
 + [SSLVPN with Azure SAML](https://community.fortinet.com/t5/Fortinet-Forum/SSLVPN-with-Azure-SAML/m-p/204468/highlight/true#M189289)
 
 [Back to Forti Bookmarks](README.md#forti)
@@ -84,7 +79,6 @@ My collection of fixes
 + [Manually Remove Oracle Client](https://oracle-base.com/articles/misc/manual-oracle-uninstall)
 
 ## RDS
-+ [RDS Collection error: Unable to configure the RD Sessionhost server. Invalid operation](http://blog.ronnypot.nl/?p=1041)
 + [Step by Step Windows 2019 Remote Desktop Services – Using the GUI](https://msfreaks.wordpress.com/2018/10/06/step-by-step-windows-2019-remote-desktop-services-using-the-gui/)
 
 ## SCCM / MEM
@@ -99,7 +93,6 @@ My collection of fixes
 ## Veeam
 
 ### Veeam Backup for Microsoft 365
-+ [Failed to backup list User Information List. Unknown Error](https://www.veeam.com/kb4326)
 + [Cannot change WebPart ExportMode to ‘All’. WebPart will be skipped](https://www.veeam.com/kb4091)
 + [Unexpected Language in backup email notification](https://www.veeam.com/kb2692)
 
@@ -143,9 +136,7 @@ My collection of fixes
 + [Removing Passwords from VBA Projects](https://malware.news/t/removing-passwords-from-vba-projects/38856)
 + [Restore Windows Server 2008 R2 Bare-metal backup to a VM](https://terrytlslau.tls1.cc/2013/03/restore-windows-server-2008-r2-bare.html)
 + [Using Remote Desktop Gateway v8 on Windows 7](https://lonewolfonline.net/remote-desktop-gateway-v8-windows-7/)
-+ [Reset Windows localaccount passwords](https://www.ghacks.net/2019/01/07/how-to-reset-windows-10-account-passwords/)
-+ [Either there is no default mail client or the current mail client cannot fulfill the messaging request. Please run Microsoft Outlook and set it as the default mail client](https://answers.microsoft.com/en-us/outlook_com/forum/all/either-there-is-no-default-mail-client-or-the/aba95463-e552-4560-8e1b-d2058ba6aa40)
-+ [Convert Windows 10 Evaluation to Full ](https://appsforpcfree.net/upgrade-windows-10-evaluation-full-version-easily/)
++ [Reset Windows local passwords](https://thedxt.ca/2024/11/reset-windows-password/)
 + [cannot shrink a VHDX file because you cannot shrink the volume on the virtual disk](https://blog.workinghardinit.work/2016/08/09/you-cannot-shrink-a-vhdx-file-because-you-cannot-shrink-the-volume-on-the-virtual-disk/)
 + [PrintNightmare & Point and Print tweaks](https://anthonyfontanez.com/index.php/2021/08/12/printnightmare-point-and-print/)
 + [Windows Updates Manual Reset](https://learn.microsoft.com/en-us/troubleshoot/windows-client/deployment/additional-resources-for-windows-update)

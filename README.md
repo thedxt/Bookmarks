@@ -262,8 +262,14 @@ My collection of Bookmarks
   + Portable Windows FTP server
 + [HFS HTTP File Server](https://rejetto.com/hfs/) (via rejetto.com)
   + quick windows http server
-+ [Tftpd64l](https://pjo2.github.io/tftpd64/) (via pjo2.github.io/tftpd64/)
++ [Tftpd64](https://pjo2.github.io/tftpd64/) (via pjo2.github.io/tftpd64/)
   + Simple TFTP server
++ [CyberChef](https://gchq.github.io/CyberChef/) (via GCHQ GitHub)
+  +  Cyber Swiss Army Knife a web app for encryption, encoding, compression and data analysis
++ [Hashes ID](https://hashes.com/en/tools/hash_identifier) (via Hashes.com)
+  + Identify and detect unknown hashes
++ [UUID Decoder](https://www.uuidtools.com/decode) (via uuidtools.com)
+  + Decode UUIDs
 
 
 

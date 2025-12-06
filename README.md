@@ -136,6 +136,7 @@ My collection of Bookmarks
 ## Omnissa
 + [Update Certificates on Horizon Connection Server](https://docs.omnissa.com/bundle/Horizon8InstallUpgrade/page/UpdatetheCertificatesonaConnectionServerInstance.html) (via Omnissa)
 + [Omnissa Release Notes Comparison Tool](https://omnissa-compare.lovable.app/)
++ [Horizon Cloud Eval Setup](https://techzone.omnissa.com/resource/evaluation-guide-horizon-cloud-service) (via Omnissa)
 
 ## OSINT
 + [Canadian Phone Number Lookup](https://cnac.ca/co_codes/co_code_lookup.htm) (via cnac.ca)

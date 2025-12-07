@@ -271,6 +271,10 @@ My collection of Bookmarks
   + Identify and detect unknown hashes
 + [UUID Decoder](https://www.uuidtools.com/decode) (via uuidtools.com)
   + Decode UUIDs
++ [regshot](https://sourceforge.net/projects/regshot/) (via sourceforge.net)
+  + Capture Registry Changes
++ [NirSoft](https://www.nirsoft.net/) (via nirsoft.net)
+  + Loads of Windows tools.
 
 
 

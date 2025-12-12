@@ -242,6 +242,7 @@ My collection of Bookmarks
 + [QHR Technologies](https://status.qhrtech.com/)
 + [Workspace ONE](https://status.workspaceone.com/)
 + [NinjaOne](https://status.ninjaone.com/)
++ [Sophos](https://status.sophos.com/)
 
 
 ## Tools

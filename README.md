@@ -192,6 +192,8 @@ My collection of Bookmarks
 + [Duo Network Gateway](https://duo.com/docs/dng-notes) (via Duo)
 + [DuoConnect Application](https://duo.com/docs/duoconnect-notes) (via Duo)
 + [NVIDIA vGPU](https://docs.nvidia.com/vgpu/index.html) (via NVIDIA)
++ [Okta Identity Engine](https://help.okta.com/oie/en-us/content/topics/releasenotes/okta-relnotes.htm) (via Okta)
++ [Okta Browser Plugin](https://help.okta.com/en-us/content/topics/settings/version_histories/ver_history_browser_plugin.htm) (via Okta)
 
 ## Removals
 + [Foxit Removal](https://kb.foxit.com/hc/en-us/articles/14238322642196-Clean-Uninstallation-of-Foxit-PDF-Editor-Reader-for-Windows) (via Foxit)
@@ -243,6 +245,7 @@ My collection of Bookmarks
 + [Workspace ONE](https://status.workspaceone.com/)
 + [NinjaOne](https://status.ninjaone.com/)
 + [Sophos](https://status.sophos.com/)
++ [Okta](https://status.okta.com/)
 
 
 ## Tools

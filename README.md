@@ -62,9 +62,8 @@ My collection of Bookmarks
 + [ADMX Viewer](https://gpedit.tplant.com.au/en-us/) (via gpedit.tplant.com.au)
 + [GPORais](https://gporais.com/en-us/) (via gporais.com)
 + [ADMX Web Viewer](https://admscope.com/admx/) (via admscope.com)
-+ [GPS Group Policy Search](https://gpsearch.azurewebsites.net/) (via gpsearch.azurewebsites.net)
 + [Active Directory Recycle Bin](https://www.terminalworks.com/blog/post/2016/07/31/active-directory-recycle-bin-windows-server-2012-r2) (via Terminal Works)
-+ [Group Policy Search](https://gpsearch.azurewebsites.net/) (via gpsearch)
++ [GPS Group Policy Search](https://gpsearch.azurewebsites.net/) (via gpsearch.azurewebsites.net)
 + [Google Chrome ADMX settings](https://chromeenterprise.google/intl/en_ca/policies/) (via Google)
 
 [DC Fixes](fixes.md#dc)

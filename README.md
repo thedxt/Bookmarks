@@ -173,6 +173,7 @@ My collection of Bookmarks
 + [Windows 10 Home and Pro](https://docs.microsoft.com/en-us/lifecycle/products/windows-10-home-and-pro) (via Microsoft)
 + [Windows 11 Home and Pro](https://learn.microsoft.com/en-us/lifecycle/products/windows-11-home-and-pro) (via Microsoft)
 + [Microsoft 365 Apps](https://docs.microsoft.com/en-us/officeupdates/update-history-microsoft365-apps-by-date) (via Microsoft)
++ [OneDrive Sync](https://learn.microsoft.com/en-us/sharepoint/sync-release-notes?tabs=windows) (via Microsoft)
 + [ODT (Office Deployment Tool)](https://docs.microsoft.com/en-us/officeupdates/odt-release-history) (via Microsoft)
 + [Microsoft Entra Connect (Azure AD Connect)](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/reference-connect-version-history) (via Microsoft)
 + [Microsoft Entra pass-through authentication agent (Azure AD Pass-through Authentication agent)](https://learn.microsoft.com/en-us/entra/identity/hybrid/connect/reference-connect-pta-version-history) (via Microsoft)
@@ -197,6 +198,11 @@ My collection of Bookmarks
 + [NVIDIA vGPU](https://docs.nvidia.com/vgpu/index.html) (via NVIDIA)
 + [Okta Identity Engine](https://help.okta.com/oie/en-us/content/topics/releasenotes/okta-relnotes.htm) (via Okta)
 + [Okta Browser Plugin](https://help.okta.com/en-us/content/topics/settings/version_histories/ver_history_browser_plugin.htm) (via Okta)
++ [ControlUp Agent](https://support.controlup.com/docs/real-time-dx-versions-1) (via ControlUp)
++ [Webex App](https://help.webex.com/en-us/article/mqkve8/Webex-App-%7C-Release-notes) (via Webex)
++ [Webex App VDI](https://help.webex.com/en-us/article/ntp1us7/Webex-App-%7C-VDI-release-notes#Cisco_Generic_Topic.dita_9390a7f5-07a2-4ed6-a759-41313ef4042a) (via Webex)
++ [Zoom Workplace app](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0061222) (via Zoom)
++ [Zoom VDI](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063810) (via Zoom)
 
 ## Removals
 + [Foxit Removal](https://kb.foxit.com/hc/en-us/articles/14238322642196-Clean-Uninstallation-of-Foxit-PDF-Editor-Reader-for-Windows) (via Foxit)

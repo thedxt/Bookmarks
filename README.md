@@ -203,6 +203,7 @@ My collection of Bookmarks
 + [Webex App VDI](https://help.webex.com/en-us/article/ntp1us7/Webex-App-%7C-VDI-release-notes#Cisco_Generic_Topic.dita_9390a7f5-07a2-4ed6-a759-41313ef4042a) (via Webex)
 + [Zoom Workplace app](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0061222) (via Zoom)
 + [Zoom VDI](https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0063810) (via Zoom)
++ [macOS](https://support.apple.com/en-ca/109033) (via Apple)
 
 ## Removals
 + [Foxit Removal](https://kb.foxit.com/hc/en-us/articles/14238322642196-Clean-Uninstallation-of-Foxit-PDF-Editor-Reader-for-Windows) (via Foxit)
@@ -288,6 +289,10 @@ My collection of Bookmarks
   + Capture Registry Changes
 + [NirSoft](https://www.nirsoft.net/) (via nirsoft.net)
   + Loads of Windows tools.
++ [Escrow Buddy](https://github.com/macadmins/escrow-buddy) (via MacAdmins GitHub)
+  + Helps the MDM escrow the FileVault Key
++ [macOS Privacy Preferences Policy Control (PPPC) Utility](https://github.com/jamf/PPPC-Utility) (via Jamf GitHub)
+  + Tool made by Jamf to generate the PPPC mobileconfig files for an MDM
 
 
 
@@ -323,6 +328,7 @@ My collection of Bookmarks
 + [VMware Tools](https://packages-prod.broadcom.com/tools/releases/) (via Broadcom)
 + [PaperCut MF](https://www.papercut.com/products/mf/upgrade-available/) (via PaperCut)
 + [Snagit](https://www.techsmith.com/download/oldversions) (via TechSmith)
++ [macOS](https://support.apple.com/en-ca/101578) (via Apple)
 
 ### ISO Tools 
 + [Easy2Boot](https://easy2boot.xyz/) (via easy2boot.xyz)
